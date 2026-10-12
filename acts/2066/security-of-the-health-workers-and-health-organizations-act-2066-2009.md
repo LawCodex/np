@@ -1,0 +1,234 @@
+---
+title: "Organizations Act, 2066 (2010)"
+identifier: "Act No. 2 of the year 2066"
+type: act
+jurisdiction: np
+language: en
+translation: true
+date: 2009-05-04
+date_bs: "2066.01.21"
+status: unknown
+source: "http://www.lawcommission.gov.np:80/en/wp-content/uploads/2018/10/security-of-the-health-workers-and-health-organizations-act-2066-2009.pdf"
+archived: "https://web.archive.org/web/20181125232141/http://www.lawcommission.gov.np:80/en/wp-content/uploads/2018/10/security-of-the-health-workers-and-health-organizations-act-2066-2009.pdf"
+retrieved: 2026-10-12
+---
+
+# Organizations Act, 2066 (2010)
+
+Security of the Health Workers and Health Organizations Act, 2066 (2010) Date of Authentication and Publication
+
+2066.1.21 (4 May, 2009)
+
+Act Number 2 of the year 2066 (2010)
+
+An Act made to provide for the security of health workers and health organizations
+
+Preamble: Whereas, it is expedient to make necessary legal provisions on the security of health workers and health organization against casual incidents and economic liabilities that may arise in the course of medical treatment, with a view to make health services regular, reliable, decent and effective;
+
+Now, therefore, be it enacted by the Constituent Assembly pursuant to Clause (1) of Article 83 of the Interim Constitution of Nepal, 2063 (2007).
+
+### Chapter-1
+
+Preliminary
+
+#### 1. Short title and commencement
+
+(1) This Act may be called as the "Security of the Health Workers and Health Organizations Act, 2066 (2009).”
+
+(2) This Act shall come into force immediately.
+
+#### 2. Definitions
+
+Unless the subject or the context otherwise requires, in this Act,-
+
+(a) "Health worker" means a health worker registered pursuant to Section 7.
+
+(b) "Health organization" means a health organization registered pursuant to Section 7.
+
+(c) "Security" means economic and other security as well made under this Act for the health workers and health organizations.
+
+(d) "Ministry" means the Ministry of Health and Population.
+
+(e) "Committee" means the health worker and health organization security coordination committee as referred to in Section 5.
+
+(f) "Fund" means the health worker and health organization security fund as referred to in Section 12.
+
+(g) "Prescribed" or "as prescribed" means prescribed or as prescribed in this Act or the rules framed under this Act.
+
+#### 3. Prohibition on doing acts such as manhandling, lock-out and destruction
+
+No one shall do or cause to be done any of the following acts:
+
+(a) Besieging (gherau), manhandling or doing degrading treatment to any health worker on the issue of medical treatment,
+
+(b) Destructing, setting fire to, any health organization or doing similar other act.
+
+#### 4. Request for security
+
+(1) If any person commits or attempts to commit any act against any health worker or in any health organization in contravention of Section 3, such a health worker or health organization may make a request to the local administration for security.
+
+(2) If a request for security is made pursuant to Sub-section (1), the local administration shall have to arrange for security immediately.
+
+(3) If, in view of any place and situation, obstruction in the services to be provided by any health organization is likely to occur, and permanent arrangement of security is necessary, and the committee writes for such
+
+security, the Government of Nepal may arrange for security in such a health organization permanently.
+
+(4) Other provisions relating to the security of the health workers and health organizations shall be as prescribed.
+
+#### 5. Provisions relating to formation of committee
+
+(1) There shall be formed a health worker and health organization security coordination committee consisting of the following chairperson and members for carrying out acts relating to the security of the health workers and health organizations in a coordinated manner.
+
+(a) Chief Specialist, Medical Service Division, Ministry -Chairperson
+
+(b) Representative, Ministry of Home Affairs -Member
+
+(c) Chairperson, Nepal Medical Association -Member
+
+(d) Chairperson, Nepal Health Technicians Association -Member
+
+(e) Chairperson, Nepal Ayurveda Medical Association -Member
+
+(f) Chairperson, Nepal Nursing Association -Member
+
+(g) Chairperson, Association of Private Health Institute of Nepal -Member
+
+(2) An officer level employee designated by the Secretary at the Ministry shall act as the secretary of the committee.
+
+(3) The secretariat of the committee shall be situated in the Ministry.
+
+(4) The Ministry shall make available such employees as may be required for the secretariat of the committee.
+
+(5) The Rules of procedures relating to the meeting of the committee shall be as prescribed.
+
+#### 6. Functions, duties and powers of the committee
+
+The functions, duties and powers of the committee shall be as follows:
+
+(a) To approve plans and programmes relating to the security of the health workers and health organizations and implement, or cause to be implements such plans and programs,
+
+(b) To maintain coordination between the concerned bodies as to the security of the health workers and health organizations,
+
+(c) To provide compensation, on behalf of the health workers and health organizations, to the concerned persons pursuant to court judgments,
+
+(d) To give suggestions to the Government of Nepal in respect of the policies to be pursued on the security of the health workers and health organizations,
+
+(e) To perform such other functions as may be prescribed.
+
+#### 7. Name to be registered
+
+(1) Any health worker or health organization who intends to have security pursuant to this Act shall have to register his/her name with the committee.
+
+(2) An application, accompanied by the certificate obtained by them from the health related professional council, in the case of a health worker who intends to get his or her name registered pursuant to Sub-section (1), and by the certification of incorporated obtained in accordance with the laws in force, in the case of a health organization who so intends to get its name registered, has to be made to the committee.
+
+Provided that, a governmental health organization shall not be required to attach the certificate of incorporation.
+
+(3) If, upon examination of an application received pursuant to Sub-section (2), it appears reasonable to register the name, the committee shall enter the name of such a health worker or health organization in the register and give a certificate thereof in the prescribed form to the applicant.
+
+#### 8. Fees to be paid
+
+(1) In making an application pursuant to Section 7, there shall be charged the fees as prescribed.
+
+(2) The health workers and health organizations shall have to pay the fees as prescribed to the committee each year.
+
+Provided that, in making a request for permanent security pursuant to Sub-section (3) of Section 4, a non-governmental health organization shall have to pay such additional fees as prescribed.
+
+#### 9. Crossing name off the register
+
+In any of the following circumstances, the committee may cross the name of a health worker or health organization off the register:
+
+(a) If the committee receives information that the worker or organization is not eligible to perform acts of health services under the laws in force,
+
+(b) If the worker or organization fails to pay the fees referred to in Sub-section (2) of Section 8,
+
+(c) If the worker or organization makes an application to the committee for the crossing the name off the register,
+
+(d) If the registration of the health worker or health organization is cancelled pursuant to the laws in force.
+
+#### 10. Records to be updated
+
+The committee shall update the records of the health workers and health organizations which have been registered pursuant to this Act.
+
+#### 11. Committee to bear expenses incurred in defense
+
+(1) The committee shall bear such reasonable expenses as may be incurred in the defense made by the concerned health worker and health organization in a case filed in a court claiming for compensation against such a health worker and health organization.
+
+Provided that, the committee shall not bear any expenses incurred in the defense in relation to any loss and damage resulted from a mala fide intention or recklessness on the part of such a health worker or health organization.
+
+(2) A health worker or health organization intending to request for the provision of the defense related expenses from the committee pursuant to Sub-section (1) shall have to provide such description as may be prescribed to the committee.
+
+#### 12. Provision of fund
+
+(1) There shall be a fund by the name of the health worker and health organization security fund.
+
+(2) The following amounts shall be credited to the fund:
+
+(a) Amounts received from the Government of Nepal,
+
+(b) Amounts received pursuant to Section 8,
+
+(c) Amounts received from any other source.
+
+(3) The amounts of the fund shall be deposited in an account opened with any commercial bank within Nepal.
+
+(4) The fund shall be operated as prescribed.
+
+#### 13. Use of fund
+
+The amounts credited into the fund may be spent in the following acts:
+
+(a) To make payment of the amount pursuant to a judgment handed down by a court ordering the provision of compensation to the concerned person in relation to the services provided by any health worker and health organization,
+
+Provided that, the committee shall not bear the amount of compensation required to be provided to the concerned person by a court judgment in relation to any loss or damage resulted from the mala fide intention or serious recklessness on the part of the health worker and health organization.
+
+(b) To make payment of such reasonable expenses as may be incurred in making defense in a case filed in a court against the health worker and health organization,
+
+(c) To carry out the functions of the committee.
+
+#### 14. Accounts and audit
+
+(1) The accounts of the incomes and expenditure of the fund shall be maintained in accordance with the laws in force.
+
+(2) The accounts shall be audited by the Auditor General.
+
+#### 15. Punishment
+
+(1) A person who commits the following offense shall be punished as follows:
+
+(a) A fine of Five Thousand Rupees to Twenty Thousand Rupees according to the gravity of offense in the case of the commission of an offense as referred to in Clause (a) of Section 3,
+
+(b) A fine of up to Three Hundred Thousand Rupees or imprisonment for a term of One month to One year or
+
+with both punishments according to the gravity of offense in the case of the commission of an offense as referred to in Clause (b) of Section 3.
+
+(2) If any health worker or health organization suffers any loss or damage as a result of any act or action done or taken by the person committing offense pursuant to Sub-section (1), the court shall order also the provision of reasonable compensation for such loss or damage by the concerned offender.
+
+#### 16. Government to be plaintiff
+
+Government of Nepal shall be the plaintiff in case referred to in Clause (b) of Section 3 and such a case shall be deemed to have been included in Schedule-1 of the Government of Cases Act, 2049.
+
+#### 17. Limitation
+
+A law suit shall have to be filed within Three months after the date of commission of the offense referred to in Section 3.
+
+#### 18. Power to form sub-committee
+
+(1) The committee may, as required, form a sub-committee involving the experts in the concerned field for the operation of its activities.
+
+(2) The functions, duties and powers and procedures of the sub-committee formed pursuant to Sub-section (1) shall be as prescribed by the committee.
+
+#### 19. Meeting allowance
+
+The members of the committee or a sub-committee formed pursuant to Section 18 shall receive such meeting allowance as may be prescribed for taking part in a meeting of the committee or sub-committee.
+
+#### 20. Delegation of powers
+
+The committee may, as required, delegate any of the powers conferred on it to any member of the committee or a sub-committee formed pursuant to Section 18.
+
+21. Not to bar the taking of action in accordance with the laws in force:
+
+Where any act committed by any person in contravention of this Act is also punishable under the laws in force, nothing contained in this Act shall be deemed to bar the taking of action against that person in accordance with the laws in force.
+
+#### 22. Powers to frame Rules
+
+The Government of Nepal may frame necessary Rules for the accomplishment of the objects of this Act.

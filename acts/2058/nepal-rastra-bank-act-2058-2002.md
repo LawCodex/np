@@ -1,0 +1,1539 @@
+---
+title: "Nepal Rastra Bank Act, 2058 (2002)"
+type: act
+jurisdiction: np
+language: en
+translation: true
+status: unknown
+source: "http://www.lawcommission.gov.np:80/en/wp-content/uploads/2018/10/nepal-rastra-bank-act-2058-2002.pdf"
+archived: "https://web.archive.org/web/20181123134130/http://www.lawcommission.gov.np:80/en/wp-content/uploads/2018/10/nepal-rastra-bank-act-2058-2002.pdf"
+retrieved: 2026-10-12
+---
+
+# Nepal Rastra Bank Act, 2058 (2002)
+
+Nepal Rastra Bank Act, 2058 (2002) Date of Authentication and publication
+
+17 magh 2058 (January 30, 2002)
+
+Act No.15 of the year of 2058 (2002) An Act to Provide for Establishment of Nepal Rastra Bank to carry out the Functions of the Central Bank
+
+Preamble: Whereas, it is expedient to establish a Nepal Rastra Bank to function as the Central Bank to formulate necessary monetary and foreign exchange policies, to maintain the stability of price, to consolidate balance of payment for sustainable development of the economy of Nepal, and to develop a secure, healthy and efficient system of payment; to appropriately regulate, inspect and supervise in order to maintain the stability and healthy development of banking and financial system; and for the enhancement of public credibility towards the entire banking and financial system of the country.
+
+Now, therefore, be it enacted by Parliament in the first year of reign of His Majesty the King Gyanendra Bir Bikram Shah Dev.
+
+### Chapter-1
+
+Preliminary
+
+#### 1. Short Title and Commencement
+
+(1) This Act may be called "Nepal Rastra Bank Act, 2058 (2002)".
+
+(2) This Act shall come into force immediately.
+
+#### 2. Definition
+
+Unless the subject or context otherwise requires, in this Act,
+
+(a) "Bank" means the Nepal Rastra Bank established under Section 3.
+
+(b) "Board" means the Board of Directors of the Bank constituted under Section 14.
+
+(c) "Director" means a member of the Board and this expression also includes the Governor and Deputy Governors.
+
+(d) "Governor" means the Governor of the Bank appointed under Section 15.
+
+(e) "Deputy Governor" means the Deputy Governor of the Bank appointed under Section 16.
+
+(f) "Commercial Bank" means a commercial bank established under the prevailing laws.
+
+(g) "Financial Institution" means a financial institution established under the prevailing laws with the objectives of providing loans for agricultural cooperative, industrial or any other specific economic purpose or of collecting deposits from the general public and this expression also includes an institution prescribed as financial institution by Government of Nepal upon publishing notice in the Nepal Gazette.
+
+(h) "Money" means all types of currency notes, postal orders, postal notes, money orders, cheques, drafts, traveller's cheques, letters of credit, bills of exchange, promissory notes and credit cards and this expression also includes similar types of monetary instruments as the Bank may prescribe, as per the requirement, through the publication and transmission of public notice.
+
+(i) "Currency Note" means the bank note in circulation in the form of cash and this expression also includes coin.
+
+(j) "Foreign Currency" means the currency other than the Nepalese currency and this expression includes the special drawing rights on the International Monetary Fund, the Asian Currency Units, the European Currency Units and other instruments as the Bank may prescribe, as per the requirement, by publication and transmission of public notice.
+
+(k) "Nepalese Currency" means the currency of Nepalese rupee denomination.
+
+(l) "Convertible Foreign Currency" means the foreign currency, which have been prescribed by the Bank as convertible foreign currency, as per the requirement, by publication and transmission of public notice.
+
+(m) "Foreign Exchange" means foreign currency, all types of deposits, credits, stocks, foreign securities payable in foreign currencies and the cheques, drafts, traveller's cheques, electronic fund transfer, credit cards, letters of credit, bills of exchange, promissory notes in international circulation payable in foreign currencies; and this expression also includes whatsoever, type of other monetary instrument as the Bank may prescribe, as per the requirement, by publication and transmission of public notice.
+
+(n) "Foreign Exchange Transaction" means the acts of purchase and sale of foreign exchange or the acts of borrowing, giving credits, and of accepting or providing foreign exchange in any manner whatsoever, and this expression also includes the act of granting approval for foreign exchange by the Bank.
+
+(o) "License holder" means an individual, firm, company or institution that has obtained license from the Bank for foreign exchange transaction.
+
+(p) "Letter of credit" means an instrument issued by a bank to another bank instructing to accept cheque, draft, hundi or bill of exchange drawn by specified person up to the limit of specified amount.
+
+(q) "Securities" means share, stock bond, debenture, debenture stocks issued by any corporate body or a certificate of unit saving scheme or collective saving scheme (mutual fund) or transferable certificate of deposit issued by a corporate body in accordance with laws, and this expression also include the securities or receipt of deposit (pledge) of such securities, and interest in securities prescribed by Government of Nepal upon publishing notification in the Nepal Gazette.
+
+(r) "Negotiate" means the act of transferring an instrument to any person having the right to hold negotiable instruments enabling him/her to become a bearer.
+
+(s) "Negotiable Bill of Exchange" means letter of credit, bill of exchange or cheques.
+
+(t) "Bill of Exchange" means an unconditional order in writing, addressed by one person to another, signed by the person giving it, requiring the person to whom it is addressed to pay on demand, or at a fixed or determinable future time, a sum certain in money to or to the order of a specified person or to bearer.
+
+(u) "Promissory note" means an instrument signed by a person with an undertaking to pay, without any condition, a fixed amount to any particular person referred to in such instrument or to the person ordered by such person or to the bearer of such instrument on a fixed date or on demand.
+
+(v) "Cheque" means a bill of exchange drawn on any bank ordering it to make payment on demand.
+
+(w) "Credit" means a direct or indirect promise to invest money and the right to recover such amount of investment in return and the interest of such credit or payment of other charges, the refinance given against the security of credit or investment restructuring and renewal of credit, the guarantee made for repayment of credit or any other promise for such repayment, and this expression also includes any type of debt.
+
+(x) "Account" means the record, registers and books to be maintained as per prevailing laws to keep the record of transactions, and this expression also includes other documents to prove the said transactions.
+
+(y) "Credit security,” means any bill of exchange of indebtedness and any other instrument equivalent to such instruments of indebtedness, whether in certified or in book entry form.
+
+(z) "Monetary liability" means the bank notes and coins in circulation existing in the balance sheet of the Bank.
+
+(aa) "International Account Standard" means the account standard of international level.
+
+(ab) "Employee" means a person holding a post in the Bank an individual presently employed in any post of the Bank.
+
+(ac) "Prescribed" or "as prescribed" mean prescribed or as prescribed in the Rules or Bye-laws framed under this Act.
+
+### Chapter - 2
+
+Establishment, Objectives and Functions, Duties and Powers
+
+#### 3. Establishment of the Bank
+
+(1) There shall be a Central Bank established in the name as NEPAL RASTRA BANK in order to carry out the functions of Central Bank.
+
+(2) The Nepal Rastra Bank established under the Nepal Rastra Bank Act, 2012 (1955) shall be deemed to have been established under this Act.
+
+(3) The Bank shall be an autonomous and corporate body with perpetual succession.
+
+(4) There shall be a separate seal for transaction of business of the Bank.
+
+(5) The Bank may, subject to this Act, acquire, utilize, retain, sell and otherwise dispose of or manage movable and immovable property.
+
+(6) The Bank may sue in its name and the Bank may also be sued in the same name.
+
+(7) The Central office of the Bank shall be located at Kathmandu and the Bank may open branch, sub-branch and other offices at any place within and outside Nepal and appoint agent or representative as per its requirement.
+
+#### 4. Objectives of the Bank
+
+(1) The objectives of the Bank shall be as follows:-
+
+(a) To formulate necessary monetary and foreign exchange policies in order to maintain the stability of price and balance of payment for sustainable development of economy, and manage it;
+
+(b) To promote stability and liquidity required in banking and financial sector;
+
+(c) To develop a secure, healthy and efficient system of payment;
+
+(d) To regulate, inspect, supervise and monitor the banking and financial system; and
+
+(e) To promote entire banking and financial system of the Nepal and to enhance its public credibility.
+
+(2) The Bank shall, without any prejudice to the objectives referred to in Sub-section (1), extend co-operation in the implementation of the economic policies of Government of Nepal.
+
+#### 5. Functions, Duties and Powers of the Bank
+
+(1) In order to achieve the objectives referred to in Section 4, the functions, duties and powers of the Bank shall be as follows:
+
+(a) To issue bank notes and coins;
+
+(b) To formulate necessary monetary policies in order to maintain price stability and to implement or cause to implement them;
+
+(c) To formulate foreign exchange policies and to implement or cause to implement them;
+
+(d) To determine the system of foreign exchange rate;
+
+(e) To manage and operate foreign exchange reserve;
+
+(f) To issue license to commercial banks and financial institutions to carry on banking and financial business and to regulate, inspect, supervise and monitor such transactions;
+
+(g) To act as a banker, advisor and financial agent of Government of Nepal;
+
+(h) To act as the banker of commercial banks and financial institutions and to function as the lender of the last resort;
+
+(i) To establish and promote the system of payment, clearing and settlement and to regulate these activities; and
+
+(j) To implement or cause to implement any other necessary functions which the Bank has to carry out in order to achieve the objectives of the Bank under this Act;
+
+(2) While exercising the powers conferred by this Act or any other prevailing law, the Bank shall have power to carry out other functions and take actions, which are incidental thereto.
+
+(3) No one shall violate powers conferred on the Bank under this Act.
+
+#### 6. Prior Right of the Bank
+
+(1) For the purpose of recovering any :
+
+loan, which the Bank has given to any borrower or any other type of claim of the Bank against any borrower, the Bank shall have prior right of security over cash deposited in an account in the name of such borrower at the Bank or in any commercial bank or financial institution or against any other movable and immovable property owned by the borrower for the purpose of recovering such loan.
+
+(2) The Bank shall recover its loan by taking into its custody the cash or movable or immovable property having its prior right and selling such property as prescribed.
+
+#### 7. Functions not to be Carried out by the Bank
+
+(1) Except otherwise provided for in this Act, the Bank shall not carry out the following functions:-
+
+(a) Providing any loan, accepting any type of deposit or making any type of financial gift;
+
+(b) Purchasing shares of any commercial bank, financial institution, public corporation or a company or acquiring any type of proprietary right in any financial, commercial, agricultural, industrial or other institution;
+
+(c) Carrying out any type trade; and
+
+(d) Acquiring right over movable and immovable property by way of purchase, lease or in any manner whatsoever.
+
+Provided that the Bank may acquire such property as required for carrying out its function or for achieving its objectives.
+
+(2) Notwithstanding anything contained in Sub-section (1), the Bank may carry out the following functions: -
+
+(a) To provide loan to and invest in the shares of the institutions which carry out the functions helpful in carrying out the function of the Bank or in attaining its objectives, not exceeding ten percent of the total capital of such institutions.
+
+Explanation: For the purpose of this Clause, "institutions which carry out the functions which are helpful in carrying out the functions of the Bank or in attaining its objectives" means any institutions, companies which are exclusively engaged in evaluating, managing, protecting the security, restructuring and transferring the securities of commercial banks or of financial institutions, carry out the function of credit rating, exchange of credit information, process and transmit data, print financial instruments, clearing payments, liquidate property, produce bank notes and coins and act as trustee and any other institution or companies established for carrying out similar function and prescribed by the Bank.
+
+(b) To provide loan to its own employees.
+
+#### 8. Privileges and Facilities to the Bank
+
+Notwithstanding anything contained in the prevailing laws, the Bank shall be entitled to the following privileges and facilities: -
+
+(a) Exemption from all types of taxes, fees and charges on the incomes, capital transactions, houses, land, assets etc.;
+
+(b) No requirement for the payment of registration fee for registration of the deeds of loan or refinance to be given by the Bank;
+
+(c) No requirement of revenue stamps on any of the documents relating to the Bank;
+
+(d) There would be no tax, fee, charge, duty on the export and import of bank notes, coins, gold, silver and the paper, metal, chemicals, and other materials to be used for printing bank notes and minting coins.
+
+#### 9. Relation between Government of Nepal and the Bank
+
+Any contact by Government of Nepal with the Bank and by the Bank with Government of Nepal under this Act, shall be made through the Ministry of Finance.
+
+#### 10. Coordination with Public Bodies
+
+(1) The Bank may, in order to achieve its objectives, make necessary coordination with public bodies or their agencies or their organs.
+
+(2) The Bank shall, on the request made by Government of Nepal, provide necessary information on the balance of payment, banking and financial matters.
+
+(3) Government of Nepal, public bodies and the private sector shall, in the event of request made by the Bank, provide necessary information on economic and financial matters.
+
+#### 11. International Cooperation and Relationship
+
+(1) The Bank shall represent Nepal in international organizations and associations on the matters within the jurisdiction of working areas of the Bank such as monetary policy, foreign exchange policy, and the balance of payment, bank supervision and other related matters.
+
+(2) The Bank may provide the services of banking and payment to foreign government, foreign central banks, foreign bank and international organizations, or associations, and obtain similar type of facilities from them.
+
+(3) The Bank shall take part in international organizations or associations working for the financial and economic stability through international monetary cooperation.
+
+(4) The Bank, while taking part in international organizations or association as a representative of Nepal, shall assume the responsibility and undertake the functions to be carried out on behalf of the country.
+
+#### 12. Flow of Public Information
+
+The Bank shall publish and transmit, on regular basis, the information on the data based analysis conducted by it on macro economy, development of financial market, monetary circulation, price stability, balance of payment and foreign exchange etc.
+
+#### 13. Operation of Accounts
+
+The Bank may open and operate account for Government of Nepal and other governmental bodies, commercial banks and financial institutions, public corporations, foreign diplomatic missions, foreign central banks, foreign banks and international organization, associations. The procedures for opening and operating such accounts shall be as prescribed by the Bank.
+
+Provided that, the Bank shall not operate account for any individual, industry and political organization.
+
+### Chapter -3
+
+Formation of Board and Functions, Duties and Powers
+
+#### 14. Formation of the Board
+
+There shall be a Board of Directors in the Bank consisting of the following members:-
+
+(a) Governor -Chairperson
+
+(b) Secretary, Ministry of Finance -Member
+
+(c) Two Deputy Governors -Member
+
+(d) Three Directors appointed by the
+
+Government of Nepal from amongst
+
+the persons renowned in the fields of
+
+Economic, Monitory, Banking, Finance
+
+and Commercial Law -Member
+
+#### 15. Appointment of the Governor
+
+(1) Government of Nepal, the Council of Ministers shall appoint Governor on the basis of the recommendation of the Recommendation Committee formed pursuant to Sub-section (2).
+
+(2) Government of Nepal, the Council of Ministers shall, for the appointment of Governor, form a Recommendation Committee as follows:-
+
+(a) Minister of Finance -Chairperson
+
+(b) One person from among the former Governors - Member
+
+(c) One person designated by Government of
+
+Nepal from amongst the persons renowned in
+
+the fields of Economic, Monitory, Banking,
+
+Finance and Commercial Law. -Member
+
+(3) While making recommendation for the appointment of Governor, the committee formed pursuant to Sub-section (2), shall recommend to Government of Nepal, the Council of Ministers the names of three persons renowned in the field of economic, monetary, banking, finance, commerce, management, commercial law and from among the Deputy Governors.
+
+(4) Government of Nepal, the Council of Ministers shall, out of the names recommended pursuant to Sub-section (3), appoint one person to the Office of Governor.
+
+#### 16. Appointment of the Deputy Governor
+
+(1) Government of Nepal, the Council of Ministers shall, on the recommendation of the Governor, appoint Deputy Governor.
+
+(2) The Governor shall, while making recommendation for appointment of Deputy Governor pursuant to Sub-section (1), recommend names, double in number of the post falling vacant from among the special class officers of the Bank on the basis of their performance and capability.
+
+(3) Person appointed in the post of Deputy Governor under this Section shall be deemed to have been automatically retired from the service of the Bank.
+
+#### 17. Appointment of the Directors
+
+(1) Government of Nepal, the Council of Ministers shall appoint Directors.
+
+(2) Government of Nepal, the Council of Ministers shall, while appointing Directors, appoint them each representing different sectors from amongst the persons renowned in economic, monetary, banking, financial, commercial, management and commercial law sectors.
+
+#### 18. Tenure of Office of the Directors
+
+(1) The tenure of Office of the Governor, Deputy Governor and Directors shall be of five years.
+
+(2) Government of Nepal may, reappoint the retiring Governor for one term and the retiring Directors for any term, if it is deemed necessary.
+
+#### 19. Remuneration and other Benefits of the Directors
+
+The remuneration and other benefits of the Governor, Deputy Governor and Directors shall be as prescribed by the Board.
+
+#### 20. Qualifications of the Directors
+
+In order to be appointed to the post of Governor, Deputy Governor and Directors, a person shall have to meet the following qualifications:-
+
+(a) A Nepalese citizen;
+
+(b) Having higher moral character;
+
+(c) Having work experience in economic, monetary, banking, financial and commercial law sectors after having attained at least master's degree in economics, monetary, banking, finance, commerce, management, public administration, statistics, mathematics and law.
+
+Explanation:- For the purpose of this Clause, "work experience" means the experience of works in the post of special class of Government of Nepal or of the Bank or in the post of a university Professor or in the post of Executive Chief of class 'A' of a commercial bank or of a financial institution or in the equivalent post or in the post higher than those in terms of the order of protocol.
+
+(d) Not disqualified under Section 21.
+
+#### 21. Disqualification of the Directors
+
+None of the following persons shall be eligible for appointment to the Office of the Governor, Deputy Governor and Director:-
+
+(a) Member or official of a political party, or
+
+(b) The person blacklisted in relation to transaction with a commercial bank or financial institution, or
+
+(c) An official currently engaged in any commercial bank or financial institution, or
+
+(d) A person having five percent or more shares or voting right in a Commercial Bank or financial institution, or
+
+(e) A person rendered bankrupt for being unable to pay debts to creditors, or
+
+(f) A insane person, or
+
+(g) A person convicted by a court in an offence involving moral turpitude.
+
+#### 22. Grounds for Removable of the Directors from Office
+
+(1) Government of Nepal, the Council of Ministers shall remove the Governor, Deputy Governor and Director on conditions stipulated under Sub-section (5).
+
+Provided that Government of Nepal shall not deprive the concerned person from a reasonable opportunity to defend himself/herself prior to remove him/her from his/her office.
+
+(2) Government of Nepal shall, remove the Governor from his office pursuant to Sub-section (1), on the recommendation of an inquiry committee constituted under Section 23.
+
+(3) While removing a Director or Deputy Governor pursuant to Sub-section (1), Government of Nepal shall cause to conduct an inquiry by committee and remove him/her from the office on the basis of the recommendation made by the committee.
+
+(4) Once Government of Nepal initiates the process for removing the Governor, Deputy Governor and Director pursuant to Sub-section (1), they shall be deemed to have been ipso facto suspended from the office.
+
+(5) The Governor, Deputy Governor and Director shall be removed from the office on any of the following grounds:-
+
+(a) If one is disqualified to become a Director pursuant to Section 21; or
+
+(b) The lack of capability to implement or cause to implement the functions which the Bank has to carry out in order to achieve the objectives of the Bank under this Act; or
+
+(c) If one has committed any act causing loss and damage to the banking and financial system of the country; or
+
+(d) If one is found to have acted dishonestly or with mala fide intention in any transaction related to the business of the Bank; or
+
+(e) If professional license is revoked or prohibited from carrying out any profession rendering disqualified to be engaged in any trade or profession on the ground of gross misconduct; or
+
+(f) If one is absent for more than three consecutive meeting of Board without a genuine reason;
+
+(6) Except on the grounds referred to in Sub-section (5), no Governor, Deputy Governor and Director shall be removed from office.
+
+#### 23. Constitution, Functions and Duties of Inquiry Committee
+
+(1) Government of Nepal shall, prior to removing the Governor from office under Sub-section (2) of Section 22, constitute an Inquiry Committee consisted as follows, and remove the Governor from the Office on the basis of the recommendation of such committee:-
+
+(a) The person designated by Government of Nepal from amongst the retired Justices of the Supreme Court - Chairperson;
+
+(b) Two persons designated by Government of Nepal from amongst renowned persons belonging to economic, monetary, banking, financial, commercial or management sectors - Member
+
+(2) The Inquiry Committee may, prior to submission of its recommendation to Government of Nepal along with its findings, record the statement and conduct inquiry with, the concerned person.
+
+(3) The Inquiry Committee may fix its procedure to be followed in connection with the inquiry.
+
+(4) The Inquiry Committee shall submit its recommendation along with its findings to Government of Nepal within one month.
+
+#### 24. Resignation by Director
+
+The Governor, Deputy Governor or Director may resign from his/her office by tendering a written resignation to Government of Nepal.
+
+#### 25. Public Notification of Governor's Appointment
+
+Government of Nepal shall, normally one month prior to the vacancy in office of the Governor, make appointment to the office of Governor in accordance with this Act and issue and transmit public notice of such appointment.
+
+#### 26. Fulfillment of Vacant Office
+
+In cases the office of the Governor, Deputy Governor and Director falls vacant before expiry of the tenure of office, Government of Nepal shall, appoint appropriate person to such office for the remaining term of office pursuant to the provisions made under this Act.
+
+#### 27. Acting Governor
+
+Government of Nepal shall depute the Senior Deputy Governor of the Bank as Acting Governor to discharge the functions of the Governor in cases where the Governor dies or resigns from office, falls sick, goes on leave or is unable to discharge his/her duties due to any reason.
+
+#### 28. Meeting of the Board
+
+(1) The Governor shall preside over the meeting of the Board.
+
+(2) The meeting of the Board shall be held as per the requirement of the Bank.
+
+Provided that the Board meets at least once in a month.
+
+(3) The Governor shall call on the meeting of the Board.
+
+Provided that in case of a written request from three Directors of the Board to call the meeting of the Board, the Governor shall call the meeting of the Board.
+
+(4) The Board may frame a separate Bye-law with regard to the procedures for calling the meeting of the Board, conducting the meeting, voting, keeping minutes and for other matters.
+
+(5) The presence of at least three Directors and of the person presiding over the meeting of the Board shall constitute the quorum for the meeting of the Board.
+
+Provided that out of the three Directors presented in the meeting at least one director should be the director appointed under Clause (d) of Section 14.
+
+(6) The decision of the majority shall be the decision of the Board. In the event of a tie of votes for and against a resolution, the person presiding over the meeting shall exercise a decisive vote.
+
+#### 29. Functions, Duties and Powers of the Board
+
+The functions, duties and powers of the Board shall be as follows:
+
+(a) To frame monetary and foreign exchange policies;
+
+(b) To take necessary decisions with regard to the denominations of bank notes and coins, the figures, size, metal, materials for printing notes, and other materials; and to frame appropriate policies with regard to their issue;
+
+(c) To frame necessary policies for causing the supervision and inspection of commercial banks and financial institutions and banking and financial arrangement.
+
+(d) To approve Rules and Bye-laws of the Bank and to frame policies applicable to the operation and management of the Bank;
+
+(e) To frame policies with regard to the appointment, promotion, transfer, dismissal, remuneration, pension, gratuity, provident fund, leave, code of conduct and other terms and conditions relating to the service of the employees of the Bank;
+
+(f) To approve the annual programs and budget of the Bank and the annual auditing of accounts, and to submit its report to Government of Nepal for information;
+
+(g) To approve the annual report on the activities of the Bank;
+
+(h) To frame necessary policy for the issue of license to commercial banks and financial institutions and for revoking such license;
+
+(i) To approve the limit of the loan to be provided to Government of Nepal by the Bank;
+
+(j) To fix the amount, limit and terms and conditions of the loan and refinance which the Bank provides to the commercial banks and financial institutions;
+
+(k) To make decision with regard to the Bank's membership to international organizations, associations;
+
+(l) To frame policy for the mobilization and investment of Bank's financial resource;
+
+(m) To submit proposal to Government of Nepal along with the reasons there for if it is necessary to make amendment to this Act;
+
+(n) To take decision on all other matters excluding the matters which are within the authority of Governor under this Act; and
+
+(o) To delegate the powers vested on the Board to the Governor or the subcommittee constituted by the Board with or without fixing the time limit.
+
+#### 30. Functions, Duties and Powers of the Governor
+
+(1) The functions, duties and powers of the Governor shall be as follows:-
+
+(a) To implement the decisions made by the Board;
+
+(b) To operate and manage the Bank;
+
+(c) To systematize the functions to be carried out by the Bank;
+
+(d) To represent and cause to represent on behalf of the Bank in international organizations and associations;
+
+(e) To implement and cause to implement the policies relating to monetary and foreign exchange matters;
+
+(f) To formulate necessary policy on rates of interest for deposits and loan with commercial banks and financial institutions;
+
+(g) To formulate necessary policies with regard to the rates of interest to be paid by commercial banks and financial institution on deposit and loan or the rate of interest to be charged by them on deposits and loan;
+
+(h) To formulate necessary policies relating to liquidity to be maintained by commercial banks and financial institutions;
+
+(i) To make necessary arrangement with regard to the basis, amount, methods, conditions and duration of compulsory deposit to be maintained by commercial banks and financial institutions, and its use;
+
+(j) To fix the terms and conditions relating to adequacy of the capital fund of commercial banks and financial institutions;
+
+(k) To take decision with regard to the procedures and terms and conditions to be followed while purchasing and selling gold and other precious metals;
+
+(l) To fix the charge on the services to be provided by the Bank;
+
+(m) To take decision for opening and closing branch offices and other offices of the Bank as may be necessary;
+
+(n) To establish and close the agency of the Bank;
+
+(o) To make necessary arrangement for development and operation of information system of the Bank;
+
+(p) To make necessary arrangement for supervision of commercial banks and financial institutions;
+
+(q) To take decision with regard to revocation of the license provided to commercial banks and financial institutions;
+
+(r) To take decisions on any other matters subject to the powers delegated by the Board of Directors;
+
+(2) The powers to be exercised by the Governor of a Central Bank in accordance with international practice shall be vested in the Governor.
+
+#### 31. Delegation of Powers
+
+The Governor may, in order to conduct the business of the Bank in a smooth manner, delegate authority invested with him/her under this Act to the Deputy Governor or other employees of the Bank.
+
+#### 32. Prohibition on Vested Personal Interests
+
+(1) After appointment to the office of Governor, Deputy Governor or Director shall, in each six months, should disclose, as prescribed to the Board about any direct or indirect commercial interest of himself/himself or of his/her family members.
+
+(2) Where any resolution involving personal interest of the Governor, Deputy Governor or Director, shall disclose to the Board about his personal interest on any matter to be discussed in the meeting of the Board, prior to the beginning of discussion on such matters. No such Director shall take part in that meeting.
+
+(3) No Governor or Deputy Governor shall be allowed to work in a commercial bank and financial institution till one year after retiring from his/her office.
+
+(4) The Governor and Deputy Governor should make it public the details of property held in his/her name and in the name of his/her family members within one month from the date of appointment and retirement.
+
+#### 33. Management Committee
+
+(1) There shall be a Management Committee, to remain under the Board to be chaired by the Governor in order to conduct the business of the Bank in a smooth manner. The two Deputy Governors shall be other members of the Management Committee, and one senior officer of the Bank designated by the Governor shall act as the member-secretary of the committee.
+
+(2) The functions, duties and powers of the Management Committee formed pursuant to Sub-section (1) shall be as prescribed.
+
+(3) Notwithstanding anything contained in Sub-section (1), the Governor may invite any of the officers to take part in the meeting of the Management Committee.
+
+(4) The Committee shall, in connection with discharging its functions, evaluate the country's monetary and financial condition on a periodic basis. For this purpose, the Management Committee shall, at least once in a month, submit a report to the Board on the Bank's administration and operation, operation of monetary and other regulatory policies, the soundness of the banking system of the country, condition of money, capital and foreign exchange market, implementation of such policies and impact they may have and situation on the banking system, and on the significant events.
+
+#### 34. Audit Committee
+
+The Board shall constitute an Audit Committee comprising of the following members which will be accountable to the Board:-
+
+(a) One Director -Convener
+
+(b) Chief of Internal Audit Department
+
+of the Bank -Member
+
+(c) One senior officer of the Bank designated
+
+by the Board -Member
+
+#### 35. Functions, Duties and Powers of the Audit Committee
+
+(1) The functions, duties and powers of the Audit Committee shall be as follows:-
+
+(a) To submit its report and recommendations to the Board on accounts, budget and audit procedures and control system of the Bank;
+
+(b) To ascertain whether or not the audit and preparation of periodic balance sheet and other documents of the Bank have been carried out properly;
+
+(c) To supervise the implementation of the appropriate risk management adopted by the Bank;
+
+(d) To audit managerial and performance of works of the Bank in order to be assured that the prevailing laws applicable to the Bank have been fully complied with;
+
+(e) To frame bye-law for auditing of the Bank in accordance with the prevailing laws and international auditing standard and to submit it to the Board for approval.
+
+(2) The Audit Committee shall, while submitting the report and recommendations to the Board pursuant to Clause (a) of Sub-section (1), furnish the information thereof to the Governor.
+
+#### 36. Employees of the Bank
+
+(1) The Board shall appoint necessary employees in order to conduct the business of the Bank in a smooth manner.
+
+(2) The terms and conditions, remuneration and other benefits payable to the employees appointed pursuant to Sub-section (1) shall be as prescribed.
+
+#### 37. Professional Code of Conduct and Official Responsibility
+
+(1) The Governor and Deputy Governor shall, so long in office, fully devote his/her professional service to the Bank. Except nominated by the Bank they shall not be entitled to assume any type of office or accept job in or render services to any one else with or without remuneration.
+
+Provided that this Sub-section shall not restrict to render services by assuming any post in any non-profit making organizations such as Medical Association, Engineers Association, Bar Association, Bankers Association, Chartered Accountants Association and in any other trade and professional organization.
+
+(2) The Governor, Deputy Governor or Director shall have to provide highest priority to the interests of the Bank while discharging their official duties.
+
+(3) The Governor, Deputy Governor or Director shall not accept, personally or through any person having any commercial, financial relationship with him, any type of gift or loan in a manner that may cause undue influence of any type in discharging his duties.
+
+#### 38. Confidentiality
+
+(1) No Governor, Deputy Governor or Director or employees, Advisor, Auditor, Agent or Representative of the Bank shall be allowed to be engaged in the following acts and activities:-
+
+(a) To divulge any published or unpublished confidential information or notice that came to his knowledge while exercising his official duty to any other person; or
+
+(b) To use such information or notice for personal gain.
+
+(2) Notwithstanding anything-contained in Sub-section (1), any published or unpublished information in one's knowledge may be divulged on the following grounds in the manner prescribed by the Bank:-
+
+(a) Providing such information while discharging one's duties in public, while assisting law enforcement agencies, as per the order of the court or of the authorized officer;
+
+(b) Providing such information, in connection with discharge of his/her duties, to the external Auditor of the Bank and the employees of international financial institutions; and
+
+(c) Providing such information in connection with legal actions for the sake of the Bank's interests.
+
+### Chapter - 4
+
+Financial Provisions
+
+#### 39. Capital of the Bank
+
+(1) The Capital of the Bank shall be one billion rupees.
+
+(2) The Capital of the Bank shall be received from Government of Nepal and this Capital shall not be transferred or any burden of debt be placed upon it.
+
+(3) Government of Nepal may alter the capital referred to in Sub-section (1). Government of Nepal shall have consultation with the Bank while altering the capital.
+
+#### 40. Computation of Net Profit or Loss
+
+(1) The Bank shall prepare the account of its net profit and loss in each Fiscal Year.
+
+(2) While preparing the account of profit and loss pursuant to Sub-section (1), it shall be prepared in accordance with the international accounting standard.
+
+(3) While preparing profit and loss account, the profit made and the loss sustained or the loss yet to be appropriated and the net valuation gains or loss shall be reconciled and the bad or doubtful debts and depreciation of property shall be deducted therefrom.
+
+#### 41. Allocation of Net Profit
+
+(1) In case the Bank makes a profit in any fiscal year, the allocation and use of such profit shall be made in according to the following priority:-
+
+(a) Unless five percent of the total monetary liability of the Bank shown in the balance sheet is met, an amount equal to five percent of the net profit of each year shall be allocated from the profit and kept in the monetary liability fund. The amount deposited in the monetary liability fund shall be used only for the purpose of fulfilling the financial liability of the Bank.
+
+(b) An amount prescribed by the Board not less than ten percent of the net profit of the Bank shall be allocated in the general reserve fund established by the Bank.
+
+(c) While allocating an amount in the general reserve fund pursuant to Clause (b), an additional amount shall be appropriated to cover the capital expenses referred to in the annual budget of the Bank.
+
+(d) The amount equal to the revaluation profit shall be kept in the revaluation reserve fund.
+
+(e) The Board shall, having appropriated the amounts referred to in Clauses (a), (b), (c) and (d), appropriate the remaining profit in other funds as may be necessary and pay the remaining amount to Government of Nepal.
+
+(2) The amount allocated to general reserve fund pursuant to Sub-section 1 Clause (b) and (c) shall be used only for the purpose of recovering the loss.
+
+#### 42. Allocation of Net Loss
+
+(1) In case the Bank sustain net loss in any fiscal year, such loss shall be allocated as follows:-
+
+(a) In cases where the total operation loss and revaluation loss have been included in the net loss, the amount of the total operation loss shall be charged to the general reserve fund or to the capital account. The amount of revaluation loss shall be debited to the revaluation reserve fund. While making such allocation, if the revaluation reserve fund also is at loss, it shall be debited to general reserve fund or the capital account.
+
+(b) In case the net loss is due to accumulation of the total operation loss and the revaluation loss, the amount of such net loss shall be debited to the revaluation fund. If the balance of the revaluation reserve fund would be negative after such allocation, it shall be debited to the general reserve fund or the capital fund.
+
+(2) The Government of Nepal shall bear the loss that cannot be adjusted after making allocation pursuant to Sub-section (1).
+
+#### 43. Annual Budget
+
+The Board shall, prior to the beginning of each fiscal year, approve the estimated budget of incomes and expenditures and the programs for the coming fiscal year. The Board may evaluate and amend the approved budget in each three months on the basis of actual position and the matters that can be estimated. Such budget shall be sent to Government of Nepal for information.
+
+### Chapter - 5
+
+Monetary Functions and Operation of Open Market
+
+#### 44. Monetary Policy
+
+The Bank shall have full powers to formulate, implement and cause to implement monetary policy of Nepal.
+
+#### 45. Operation of Open Market
+
+The Bank shall operate open market transaction on the basis of agreements for immediate or late purchase and sale of debt securities issued on behalf of Government of Nepal or by the Bank itself and may immediately be sold in market. Such transaction may also be in the forms of repurchase agreements or reverse repurchase agreements. For this purpose, no other instruments shall be used.
+
+#### 46. Compulsory Deposit in Commercial Banks and Financial Institutions
+
+(1) The Bank shall issue directives to the commercial banks and financial institutions to maintain compulsory reserve with the Bank in proportion to the deposits accumulated with them, borrowed fund or other liability prescribed by the Bank. It shall be the duty of commercial banks and financial institutions to maintain the compulsory deposit in the Bank as prescribed by the Bank.
+
+(2) While computing the compulsory deposit of commercial banks and financial institutions, the Bank shall compute on the basis of daily average of deposit by prescribing the duration.
+
+#### 47. Failure to Maintain Compulsory Deposit
+
+In cases where any commercial bank or financial institution fails to maintain the compulsory deposit prescribed by the Bank, the Bank shall impose a fine on bank or financial institution for the period of such failure. While imposing the fine, the amount of fine shall not be more than three times of the maximum of the bank rate prescribed by the Bank.
+
+#### 48. Discount Operation
+
+(1) The Bank may conduct discount transaction on the following negotiable instruments submitted by the commercial bank and financial institutions who maintain their accounts with the Bank:-
+
+(a) A promissory note or bill of exchange signed by at least two parties including a commercial bank payable in Nepal within six months.
+
+(b) Debt bond issued by Government of Nepal or the Bank payable within Nepal and within six months from the date of acquisition by the Bank.
+
+(2) The discount rates, terms and conditions and procedure of operating discount transaction shall be as prescribed by the Bank.
+
+#### 49. Loan and Refinance to Commercial Banks and Financial Institutions
+
+(1) The Bank may, subject to the terms and conditions prescribed by it, make available loan and refinance to commercial banks and financial institutions for a maximum period of six months against the security of the following assets:-
+
+(a) International negotiable instrument referred to in Clause (e) of Sub-section (1) of Section 66;
+
+(b) The debt bond issued by Government of Nepal payable within Nepal;
+
+(c) The deposits accumulated in the Bank or the gold and precious metals, which the Bank may transact under this Act;
+
+(d) The bill of exchange or the promissory notes referred to in Sub-section (1) of Section 48;
+
+(e) Other securities as prescribed.
+
+(2) Notwithstanding anything contained in Sub-section (1) of the Bank may provide any type of credit to a commercial bank and financial institution for a maximum period of one year in cases where Government of Nepal has, for the sake of public interest and welfare, deemed it appropriate to provide loan and has requested the Bank therefor and Government of Nepal has given a guarantee of securities of prevailing market rate for such loan or in extraordinary circumstances where the Bank has to work as a lender of the last resort.
+
+#### 50. Discount Rate and Rate of Interest for Refinance
+
+The Bank shall fix the discount rate and the rate of interest for refinance from time to time. The Bank shall publish and transmit the notice of discount rate and interest rate of refinance for the information of all concerned.
+
+### Chapter 6
+
+Monetary Unit, Banknote and Coins
+
+#### 51. Monetary Unit
+
+(1) The Rupee shall be the monetary unit of Nepal and such Rupee shall be divided in one hundred Paisa.
+
+(2) The Rupee referred to in Sub-section (1) shall be a legal tender within Nepal and Government of Nepal shall provide guarantee for such Rupee.
+
+#### 52. Power to Issue Banknotes and Coins
+
+(1) The Bank shall have monopoly over the issue of banknotes and coins in Nepal. Such notes and coins shall be legal tenders in Nepal.
+
+(2) The Bank shall issue notes pursuant to Sub-section (1), only against the security, and the liability of such issued notes shall be equal to the value of property kept as security. At least fifty percent of the property to be kept as security shall be one or more of gold, silver, foreign currency, foreign securities, and foreign bills of exchange and the remaining percentage shall be one or more of the coins (Mohar Double or coins of higher denomination, the Debt Bond issued by Government of Nepal, the promissory note or bills of exchange payable in Nepal within a maximum of eighteen months from the date of repayment by bank.
+
+Provided that with the permission of the Government of Nepal the ratio of property kept as security may be at least forty percent one or more of gold, silver, foreign currency, foreign securities, and foreign bills of exchange and the remaining percentage shall be one or more of the coins (Mohar Double or coins of higher denomination, the Debt Bond issued by Government of Nepal, the promissory note or bills of exchange payable in Nepal within a maximum of eighteen months from the date of repayment by bank.
+
+(3) For the purpose of Sub-section (2), the valuation of property shall be made as follows:-
+
+(a) The price of gold at the rate fixed by Government of Nepal on the recommendation of the Board;
+
+(b) The price of silver at the rate deemed appropriate by the Board;
+
+(c) The foreign currencies at the exchange rate fixed by the Bank;
+
+(d) The Debt Bond issued by Government of Nepal, the foreign securities and Bills of Exchange at the rate deemed appropriate by the Board on the basis of market rates;
+
+(e) Coins at the rate of face value.
+
+(4) The Bank shall issue the bank notes of various denominations as may be necessary. While issuing banknotes in this way, the figures appearing in the notes, size and denominations shall be as approved by Government of Nepal and the figures, internal security arrangements, the materials for printing banknotes and other materials shall be as decided by the Board.
+
+(5) Government of Nepal may, in consultation with the Board, declare that banknote of any denomination shall cease to be legal tender in any place other than the prescribed place or office having published a notification in the Nepal Gazette.
+
+(6) The Bank shall not reissue the notes, which are torn, defaced or excessively soiled.
+
+(7) The Bank may, with the approval of Government of Nepal, mint and bring into circulation the coins of whatever metal or mixture of metals or bring into circulation having minted them in Mint on specials occasions. The Bank may, if it deems appropriate, cause such coins minted in any foreign Mint.
+
+Provided that, if coins minted once with the approval is to be re-minted, no approval of Government of Nepal shall be required.
+
+(8) The Bank may, with the approval of Government of Nepal, mint the coins sent for minting by a foreign government.
+
+(9) The Bank shall be responsible for payment of the banknotes issued by the Bank and the banknotes issued by Government of Nepal prior to the establishment of the Bank.
+
+(10) No liability other than the liability referred to in Sub-section (9) shall be borne from the property given as security for issuance of banknotes.
+
+#### 53. Banknotes and Coins to be Acceptable all
+
+The banknotes and coins issued by the Bank having made them legal tender shall be all acceptable to the extent of the amount of face value for repayment of all types of public or private debts within Nepal.
+
+#### 54. Measurement, Weights and Size of Coins
+
+The face value, measurement, weight, size and other features of the coins to be issued by the Bank under this Act shall be prescribed by the Board.
+
+#### 55. Issuance of Currency and Security
+
+Matters relating to printing of banknotes and minting coins, providing security to the not issued banknotes and coins, keeping them in appropriate manner and the matter of safe keeping or destroying the old banknotes or coins which are not in circulation, plate and die shall be as prescribed.
+
+#### 56. Provisions for Exchange of Currency
+
+The Bank shall, without any fee or charge, change a banknote or coin with legal tender in Nepal with the banknotes or coins of same denomination or of different denominations of the equal value.
+
+#### 57. Soiled or Counterfeit Currency
+
+(1) The Bank may withdraw, destroy or replace the soiled currency with other banknote or coin.
+
+(2) Notwithstanding anything contained in Sub-section (1), the Bank may deny to replace the banknote or coin the design of which has been deleted, or which is torn, defaced or more than fifty percent of its portion has been destroyed.
+
+(3) The Bank may withdraw or destroy such banknotes or with or without compensation to the owner of the banknotes or coins referred to in Sub-section (1).
+
+(4) No owner of the lost or stolen banknotes or coins shall be entitled to a reimbursement from the Bank. The Bank may forfeit without any compensation, the coins or notes the outer appearance of which is changed, or which is counterfeit coins or fake note.
+
+Explanation: For the purpose of this Section, "Counterfeit coin" means a duplicate coin minted copying the coin issued by the Bank or a counterfeit coin or prepared by melting or manipulating or a coin prepared by cutting and breaking into two or more places a coin issued by the Bank or the coin the figures, letters and signs in which have been defaced.
+
+#### 58. Provisions Relating to Currency Inventory and Issuance of Currency
+
+The Bank shall carry out the functions relating currency stock and issue of currency and to regularly supply the banknotes or coins in order to meet the demand of currency.
+
+#### 59. Account of Issued Currency
+
+The Bank shall maintain account of the entire banknotes and coins in circulation showing them separately as monetary liability. Such liability shall not include the bank notes and coins in stock or not in circulation.
+
+#### 60. Currency Recall
+
+(1) The Bank may recall the bank notes and coins in circulation within Nepal by issuing in exchange there for other bank notes and coins in equivalent amount. The Bank shall publish and transmit pubic notice clearly specifying the period during which the bank notes or coins must be presented for exchange and where they are to be so presented.
+
+(2) Notwithstanding anything contained in Section 53, upon expiry of the time prescribed pursuant to Sub-section (1), bank notes and coins to be exchanged shall cease to be a legal tender.
+
+(3) The Bank may cut, break or demolish or destroy in any manner whatsoever, the banknotes and coins withdrawn from circulation and the currency with defect, as prescribed.
+
+#### 61. Reproduction and Counterfeiting of Currency
+
+(1) No one shall commit or cause to commit any of the following acts:-
+
+(a) To forge, counterfeit or alter banknotes and coin in circulation as legal tender in Nepal or any cheques or payment card or to do any other act relating to it or to assist in any of such acts;
+
+(b) To possess, transport or issue any banknote or coin or cheque or payment card with the knowledge that such banknote or coin, cheque or payment card was falsely made, forged, counterfeited or altered or to assist in such acts in any manner;
+
+(c) To possess, transport any sheet of metal, stone, paper, die or any other material or substance with the knowledge that it was destined to be used in falsely making, forging, counterfeiting or altering any banknote or coin, cheque or payment card or to assist in any of such acts.
+
+(2) Any reproduction of banknotes, coins, checks, securities or payment cards, denominated in Rupee, and the creation of any objects that by their design imitate any such banknote, coin, check, security or payment card, shall require the prior written authorization of the Bank.
+
+(3) The Bank may take appropriate action to prevent the issue of fake note or counterfeit currency or duplicate cheque or payment. The Bank may issue necessary order, directives or notices while taking such actions.
+
+### Chapter - 7
+
+Foreign Exchange Policy, Regulation and Reserve
+
+#### 62. Foreign Exchange Policy
+
+The Bank shall have full authority to formulate, implement and cause to implement foreign exchange policy of Nepal.
+
+#### 63. Management of Foreign Exchange
+
+The Bank shall manage the foreign exchange. The Bank shall have the following powers for such management: -
+
+(a) To issue license under this Act or any other prevailing laws to the persons willing to deal in foreign exchange transaction;
+
+(b) To frame Rules and Bye-laws and to issue necessary order, directives or circulars in order to regulate dealings in the foreign exchange transaction by the foreign exchange dealer;
+
+(c) To inspect, supervise and monitor the foreign exchange dealer;
+
+(d) To set the bases, limitations and terms and conditions for the transaction of the foreign exchange dealer; and
+
+(e) To prescribe the system of determining the foreign exchange rates of the Nepalese currency.
+
+#### 64. Particulars of Foreign Exchanges Dealings
+
+(1) The Bank shall cause the license-holder to submit to the Bank the detailed particular of exchange of foreign currency and of the transaction relating to it. The duration for submitting such particulars, the format and other documents relating to it shall be as prescribed by Bank from time to time.
+
+(2) It shall be the duty of the concerned license holder to submit the particulars referred to in Sub-section (1) and the documents prescribed by the Bank.
+
+#### 65. Dealing in Foreign Exchanges
+
+(1) The Bank may purchase and sell foreign exchanges, gold and precious metals.
+
+(2) The purchase and sale to be made by the Bank pursuant to Sub-section (1) shall be effected through the spot, advance exchange rate, swap, option or the similar types of other instruments, cash or negotiable instrument.
+
+(3) The Bank may, for the purpose of Sub-section (1) of Section 66, purchase or sell foreign exchange. It may affect such purchase and sale also on the basis of spot, advance exchange rate, swap, option or similar types of other of instruments.
+
+(4) The Bank shall deal in foreign exchange after fixing its buying and selling rates. The basis, limitations and conditions of such dealing shall be as prescribed by the Bank.
+
+#### 66. Foreign Exchange Reserve
+
+(1) The Bank shall mobilize the foreign exchanges reserve. Such reserve shall be denominated in the respective foreign exchange and such reserve shall consist of the following assets:-
+
+(a) Gold and other precious metals held by or for the account of the Bank;
+
+(b) Foreign currencies held by or for the account of the Bank;
+
+(c) Foreign currencies held in the accounts of the Bank on the books of a foreign central bank or other foreign banks;
+
+(d) Special drawing rights (SDR) held by the Bank at the International Monetary Fund;
+
+(e) Bill of exchange, promissory note, certificate of deposit, bonds, and other debt instrument payable in convertible foreign currencies issued by any debtor or liability holder and held by the Bank;
+
+(f) Any forward purchase or repurchase agreements of the Bank concluded with or guaranteed by foreign central banks or public international financial institutions, and any futures and option contracts of the Bank providing for payment in freely convertible foreign currency.
+
+(2) While selecting the assets referred to in Sub-section (1), due consideration should be given to the Bank's capital and liquidity to maximize earnings.
+
+(3) The Bank shall maintain international reserve at a level, which shall be adequate for the execution of monitory and exchange rate policies and for the prompt settlement of the international transaction.
+
+(4) If international reserves have declined or, in the opinion of Bank, are in danger of declining to such an extent as to jeopardize the execution of the monetary or exchange rate policies in the prompt settlement of the country's international transactions, the Bank shall submit to Government of Nepal a report on the international reserves position and the causes which have led or may lead to such a decline, together with such recommendations as it considers necessary to remedy the situation.
+
+(5) Until such time as, the situation referred in Sub-section (4) has been rectified, the Bank shall make further such report and recommendations to Government of Nepal.
+
+(6) The Bank shall hold the foreign exchange reserve referred to in Sub-section (1) in its balance sheet.
+
+#### 67. Issuance of Debt Bond Against Gold and Foreign Currency
+
+(1) The Bank may, having obtained approval from Government of Nepal, issue one or more types of debt bond denominated in gold or foreign currency for certain purpose.
+
+(2) The types, duration, payment of principal and interest and other matters of the debt bond to be issued pursuant to Sub-section (1) shall be as prescribed by the Bank.
+
+#### 68. International Clearing and Payment Agreements
+
+The Bank may, either for its own account or for government account and by the order of Government of Nepal, enter into clearing and payment agreements with public or private central clearing unions domiciled abroad. The Bank may, in order to implement the objectives of such agreement, enter into other necessary agreements.
+
+### Chapter - 8
+
+Relation with Government of Nepal
+
+#### 69. Banker, Advisor and Financial Agent
+
+(1) The Bank shall be the banker and financial advisor of Government of Nepal and a financial agent of Nepal.
+
+(2) Government of Nepal shall consult the Bank on any matters that are within the jurisdiction of its competence. It shall be the duty of the Bank to advise on matter consulted by the Government of Nepal.
+
+(3) Government of Nepal shall, while preparing annual budget, consult the Bank on the domestic debt including overdrafts.
+
+(4) The Bank shall submit a pre-budget review report to Government of Nepal each year on the economic and financial matters.
+
+#### 70. Opinions and Information Relating to External Debt
+
+(1) Government of Nepal may consult the Bank while taking loan from external sectors.
+
+(2) The consultation referred to in Sub-section (1) shall include the subjects such as amount of loan, the terms and conditions of the loan and the repayment of loan.
+
+(3) Government of Nepal shall inform the Bank when external loans have been received.
+
+(4) Government of Nepal shall consult the Bank while granting approval to private and public institutions to raise loan-creating liability in foreign exchange.
+
+(5) Government of Nepal, public institution or private sector shall inform the Bank about the agreements concluded having creating liability in foreign exchange.
+
+#### 71. Deposit Collection
+
+(1) The Bank shall accept the deposits of Government of Nepal or other bodies prescribed by Government of Nepal .
+
+(2) While accepting deposits pursuant to Sub-section (1), the Bank shall receive and disburse monies, keep accounts therein, and provide banking services related thereto.
+
+(3) The Bank may authorize commercial banks and other financial institutions to conduct the transaction as referred to in Sub-section (2) subject to the terms and conditions prescribed by the Bank.
+
+#### 72. Functions of Fiscal Agent
+
+The Bank shall, subject to the terms and conditions stipulated in the agreement entered into with Government of Nepal, act as fiscal agent of Government of Nepal on the following matters:-
+
+(a) Marketing, purchase and sell of debt bonds issued by Government of Nepal and to act as registrar and transfer agent therefor;
+
+(b) Payment of the principal, interest and other fees of the debt bonds referred to in Sub-section (a);
+
+(c) Other necessary functions to be carried out as the agent.
+
+#### 73. Bank may ask for Particulars, Statistics and Documents
+
+(1) The Bank may ask for the particulars, statistics and documents necessary for conduct of its business from the concerned bodies.
+
+(2) It shall be the duty of the concerned bodies to provide the Bank with the particulars, statistics and documents asked for under Sub-section (1).
+
+#### 74. Consultation on the Matter of Law Reform
+
+(1) The Bank may be consulted on any proposals by the concerned entities for legislation with respect to matters that relate to Bank objectives or that otherwise are within its fields of competence, including monetary policy and its operations, credit, the balance of payments, foreign exchange, and banking, before they are submitted for amendment or legislative action.
+
+(2) It shall be the duty of the Bank to provide opinion sought pursuant to subSection (1).
+
+(3) The Bank shall have powers to submit proposals to Government of Nepal for enacting new law or amending the existing laws on the subjects relating to the objectives of the Bank or area of its competence such as monetary policies and its operation, credit, balance of payment, foreign exchange and banking.
+
+#### 75. Credit to Government of Nepal and Purchase of Government Debt Bonds
+
+(1) Except otherwise provided in this Act, the Bank shall not provide any type of financial assistance to Government of Nepal or an institution under the full or substantial or partial ownership of Government of Nepal.
+
+(2) Subject to the limits specified in this Section, the Bank may extend credit to Government of Nepal with a condition to repay within one hundred eighty days.
+
+(3) Notwithstanding anything contained in Sub-section (2), the Bank may extend a special credit of long term to Government of Nepal only on account of subscription and similar payments resulting from or incidental to the membership of Nepal with international organization.
+
+(4) The Bank shall disburse credit to be extended to Government of Nepal or an institution under full or substantial or partial ownership of Government of Nepal only in Nepalese rupees. Such credit shall be certified by negotiable debt bond issued by Government of Nepal and delivered to the Bank. Such debt security should have the maturity corresponding to the maturity of the extension of credit and should bear the interest at market rate. There must be a written agreement executed between Government of Nepal and the Bank. Such agreement should clearly stipulate the principal amount of the loan or limit on a line of credit, the maturity, and the applicable rates of interest and other charges.
+
+Explanation: For the purpose of this Section, " Negotiable Debt Bond" means the debt bond issued in the form of promissory note.
+
+(5) At no time the amount of overdraft provided by the Bank to Government of Nepal shall be more than five percent of the revenue income of Government of Nepal in the proceeding fiscal year. While computing such revenue income, the amount of borrowing, grants or any other form of financial assistance or income received from the sale of property shall not be included.
+
+(6) Government of Nepal shall make the payment of the overdraft referred to in Sub-section (5) within one hundred eighty days at the prevailing interest rate either in the form of cash or marketable debt bond.
+
+(7) The total amount of debt bond purchased by the Bank from Government of Nepal and taken into its ownership shall not be more than ten percent of the revenue income of the proceeding fiscal year.
+
+(8) In the following circumstances, the debt bond issued by Government of Nepal and purchased by the Bank shall not be treated as the credit extended under Sub-section (7):-
+
+(a) If the purchase is made in the secondary market for the operation of open market consistent with the monetary policy of the Bank;
+
+(b) If the purchase is made in the primary market, when it is necessary in the opinion of the Bank, to maintain stability in the market at the time of primary issue of such securities and such securities are divested within 60 days of purchase.
+
+(c) The debt bond purchased by the Bank from Government of Nepal and retained in its ownership prior to the commencement of Sub-section (7).
+
+### Chapter - 9
+
+Regulation, Inspection and Supervision of the Banks
+
+#### 76. Bank's Approval Required for Accepting Deposits or Giving Credits
+
+(1) Any person, firm, company or institution shall, in order to accept any type of deposit or to provide loan, obtain approval from the Bank as may be prescribed.
+
+(2) The Bank, while giving approval referred to in Sub-section (1), may subject the approval to the terms and conditions prescribed by the Bank and it shall be the duty of the concerned person, firm, company or institution to abide by such terms and conditions.
+
+#### 77. Restriction on Rate of Interest
+
+An individual, firm, company or organization authorized to accept deposit or to provide loan pursuant to prevailing laws, shall fix the rate of interest payable on deposit and to be charged on loan subject to arrangement prescribed by the Bank in the matter of rate of interest from time to time.
+
+#### 78. License to be Obtained from Bank
+
+(1) Commercial Banks and financial institutions shall, in order to conduct banking and financial transaction, obtain license from the Bank as prescribed.
+
+(2) While issuing license pursuant to Sub-section (1), the Bank may fix necessary terms and conditions and it shall be the duty of the licensed bank and financial institution to abide by such terms and conditions.
+
+#### 79. Regulatory Powers of Bank
+
+(1) The Bank shall have full powers to regulate the functions and activities of commercial banks and financial institutions.
+
+(2) For the purpose of the regulation under Sub-section (1), the Bank may frame rules and bye-laws on the matters which the Bank deems appropriate and issue necessary order, directives and circular and it shall be the duty of the concerned commercial bank and financial institution to abide by such Rules, Bye-laws, order, directives and circular.
+
+(3) The Bank shall issue appropriate directives to commercial banks and require them to submit the following particulars:-
+
+(a) Its balance sheet accounts, off balance sheet commitments, statement of income and expenditures and their ratio among accounts or items.
+
+(b) Prohibitions, restrictions or conditions concerning specific types or forms of credit or investments, or of credit or investments, forms of commitments of a risk-bearing nature which are not matching as to maturity of assets and liabilities and off-balance-sheet items, foreign currency, spot or advance rate of interest, swap, option or similar instruments or access to the payments system through electronic or other means.
+
+(c) Other particulars and documents prescribed by the Bank.
+
+(4) Bank may issue necessary directives to commercial banks on the following matters and require to submit particulars on the following subjects:-
+
+(a) Books and accounts, profit and loss account, balance sheet and off-balance-sheet transaction and commitment, statement of income and expenses and their ratio among accounts or items.
+
+(b) Prohibitions, restrictions or conditions concerning specific types or forms of credit or investments, loan and investment in excess of the ceiling prescribed by the Bank, risk bearing commitment, position of foreign exchange, payment and electronic and other means of payment.
+
+(c) Other particulars and documents prescribed by the Bank.
+
+(5) The Bank shall have the following powers with regard to commercial banks and financial institutions:-
+
+(a) To enforce authority and responsibility granted under this Act and any other Act enacted for licensing, supervising and regulating commercial banks and financial institutions and to revoke the license of commercial banks and financial institutions and to take over or to provide in trusteeship the commercial banks or financial institutions which have been declared insolvent or are on the verge of insolvency;
+
+(b) To investigate or inspect, or supervise or to cause to investigate, inspect or supervise by any official of the Bank or the person designated by the Bank the books and accounts, records, documents or register of commercial banks or financial institutions in order to find whether or not any commercial bank or financial institution has conducted business and transaction in accordance with the provision made under this Act or the Rules, Bye-laws framed thereunder and an order or directive issued thereunder;
+
+(c) To issue order to the member of the Board of Directors, official or employee of any commercial bank or financial institution to provide necessary information about the bank or institution in cases where it is necessary to inspect and supervise the transaction of such bank or financial institution.
+
+#### 80. Banking and Financial System and Credit Control
+
+The Bank may issue directives from time to time to commercial banks and financial institutions on banking financial system, currency and credit. It shall be the duty of commercial banks and financial institutions to abide by such directives.
+
+#### 81. Credit to Prescribed Sectors
+
+(1) Commercial banks and financial institutions shall advance credit to the sectors prescribed by the Bank from time to time for a prescribed period and in the manner prescribed by the Bank.
+
+(2) In cases where any commercial bank or financial institution does not advance the credit pursuant to Sub-section (1) or advance credit less than prescribed amount, the Bank may recover as fine an amount equal to the interest which a commercial bank or financial institution would have charged for the amount of credit not advanced or advanced less than the prescribed amount from the concerned commercial bank or financial institution.
+
+#### 82. Information to be Furnished to Bank
+
+(1) Commercial Bank and financial institution shall furnish the particulars of its transaction and financial position to the Bank as prescribed by the Bank.
+
+(2) The Bank may publish the particulars made available pursuant to Sub-section (1).
+
+#### 83. Approval Required to Issue Debentures and Financial Instruments
+
+(1) Commercial banks and financial institutions shall, while issuing any type of debenture or financial instruments, obtain a prior approval of the Bank.
+
+(2) While giving approval referred to in Sub-section (1), the Bank may prescribe necessary terms and conditions and it shall be the duty of the concerned commercial bank and financial institution to abide by such terms and conditions.
+
+#### 84. Inspection and Supervision
+
+(1) The Board shall frame and implement inspection and supervision bye-law confirming to international standard for inspection and supervision of the commercial banks and financial institutions licensed by the Bank.
+
+(2) The Bank may, at any time, inspect and supervise or cause to inspect and supervise any of the offices of commercial banks or financial institutions. Such inspection and supervision may be carried out by the deputed official of the Bank or an expert designated by the Bank at the office of the commercial bank or financial institution or by asking the concerned institution to submit detailed particulars and information to the Bank itself.
+
+(3) It shall be the duty of the concerned commercial bank and financial institution or Directors, officials or employees of such commercial bank and financial institution to make available the statement, data, record, information, particulars necessary for computer and auditing and other programs and particulars developed through the electric system and financial control system or necessary other documents to such official, expert or the Bank or to enable such official or expert to review or to examine them within the time prescribed by such officer or expert.
+
+(4) The inspecting and supervising official or the Bank under this Section may cause to record written statements of any Director, official or employee of the commercial banks or financial institutions with regard to the functions and proceedings which are deemed necessary in course of inspection and supervision.
+
+(5) The Bank or the inspecting and supervising official may issue necessary directives to the commercial bank or financial institution on the matters deemed necessary while inspecting and supervising. It shall be the duty of the concerned commercial bank or financial institution to abide by the directives issued by the Bank or by the inspecting or supervising official. The inspecting or supervising official shall inform the Bank as soon as possible about the directives so given.
+
+(6) The official or expert carrying out the inspection and supervision under this Section shall submit the report of the inspection and supervision he has undertaken generally within fifteen days upon completion of his works to the Bank. In case such report is not completed within fifteen days, the Governor may extend the time limit for another fifteen days.
+
+(7) The report submitted pursuant to Sub-section (6) should be submitted in the next meeting of the Board.
+
+(8) The Board may, after making appropriate decision on matters contained in the report submitted pursuant to Sub-section (7), issue appropriate directions to the Governor about the actions to be taken in the matter. It shall be the responsibility of the Governor to implement or cause to implement such directions.
+
+#### 85. Exchange of Mutual Cooperation
+
+(1) The Bank may, in order to supervise commercial banks and financial institutions under its supervisory jurisdiction, exchange cooperation with concerned foreign supervisory authority on reciprocal basis.
+
+(2) The Bank may exchange the notices or information received for carrying out supervision pursuant to Sub-section (1) with the foreign supervisory authority provided that such authority undertakes to respect the confidentiality of the information so received.
+
+(3) The Bank may exchange mutual cooperation with other institutions regulating the policies relating to financial system to promote financial system.
+
+86. …………….
+
+#### 86A. Information Need to Provide to the Bank by Commercial Banks and Financial Institutions
+
+Commercial bank or financial institution shall inform to the bank within fifteen days about the situation of insolvency or state of dissolution under the prevailing law or incapability to pay the debt or materially unable to discharge any or all liabilities by any commercial bank or financial institution.
+
+86B. State of Problematic Commercial Bank and Financial Institution:
+
+Bank shall declare any commercial bank or financial institution problematic by providing written notice to it when bank is convinced that the following conditions are prevailing in any commercial bank or financial institution on the basis of information received under Section 86A or from the report of inspection and supervision conducted under Section 84 or from any other means.
+
+(a) In case of any action which is against the interest of the depositors, shareholders, creditors, or general public,
+
+(b) In case of not fulfillment of any financial liabilities or not having probability to do that or not payment of due amount,
+
+(c) In case of insolvency or going to fall under insolvency or facing material financial difficulties,
+
+(d) In case of discredit or breach of this Act, prevailing law related to bank and financial institution, other prevailing law, terms of license or regulation, directives or order of bank,
+
+(e) In case the license obtained on the basis of submitting false, fraudulent, wrong document or data,
+
+(f) In case of unable to maintain the capital fund as per this Act, prevailing law related to bank and financial institution and directives issued by the bank at time to time,
+
+(g) In case of the initiation of the process of liquidation or insolvency of any commercial bank or financial institution under the prevailing law,
+
+(h) In case of undue delay in the process of voluntary liquidation,
+
+(i) For the commercial bank or financial institution established with the joint venture of the foreign commercial bank or financial institution while such foreign commercial bank or financial institution is in insolvent or liquidator is appointed for the liquidation or the license of such commercial bank or financial institution is terminated under the provision of the law of respective country or transaction is banned either full or partial or in case of operation of banking transaction being involved with such commercial bank or financial institution, or
+
+(j) If the bank is convinced that commercial bank or financial institution is unable to pay it’s due or can make negative effect in its liability or duties, which it has to perform.
+
+86C. Bank can Take Action Against Problematic Commercial Bank or
+
+Financial Institution: (1) Whatever may be mentioned in the Companies Act or other prevailing law, the bank can take any or all of the following actions against the commercial bank or financial institution which is declared problematic under the provision of Section 86B.
+
+(a) To increase the paid capital by issuing new shares or by receiving due amount of issued capital.
+
+(b) To suspend the right to vote or other rights of shareholder.
+
+(c) To stop payment of dividend or any other amount to the shareholders to increase the capital.
+
+(d) To determine limitation to the amount of bonus, salary, compensation and other expenses for the director and other high level management officials.
+
+(e) To make necessary arrangement for the corporate governance, internal control and risk management of commercial bank or financial institution.
+
+(f) To prohibit or make limitation in collection of deposit, credit supply or investment .
+
+(g) To maintain sufficient capital and high proportion of liquidity or prohibit business transaction or determination of other necessary terms.
+
+(h) To limit transaction of the commercial bank or financial institution or prohibit sale of property or expansion of branch office or close any domestic or international branch.
+
+(i) To maintain necessary arrangement for reduction of risk of the properties which are materially doubtful or securities without proper evaluation or other properties
+
+(J) To prohibit any action carried out illegally by breaching the prevailing law and regulation of the bank that is against the interest of commercial bank or financial institution.
+
+(K) To prohibit from doing some specific business among the businesses allowed to commercial bank or financial institution for specific time
+
+(l) To receive prior approval of the bank for major capital expenditure, substantial commitments having major liabilities or for the expenditure of contingent liabilities.
+
+(m) To issue order to remove from the post to single or more director or manager or employee as per the necessity.
+
+(n) Bank can remove the director or manager or employee in case of not discharge of the order made under Clause (m) by respective commercial bank or financial institution.
+
+(o) To suspend board of director of the commercial bank or financial institution and takeover the management of such commercial bank or financial institution in self control or operate the management and transaction of such commercial bank or financial institution by appointed official.
+
+Clarification: “Appointed Officer” means any person, firm, company or organization appointed by the bank for the management and operation of transaction of the commercial bank or financial institution which is in the control of bank under the provision of this Clause.
+
+(p) To order commercial bank or financial institution, which is listed in Stock Exchange for the application of de-listing.
+
+(q) To prohibit payment of interest and principal for time bond auxiliary loan without having securities of commercial bank or financial institution.
+
+(r) To take any other action as bank feels necessity and proper.
+
+(2) While removing the directors, managers or employee of the commercial bank or financial institution from their post as per the order of Clause (n) or to suspend the board of director of commercial bank or financial institution by taking the charge of management under Clause (o) of Sub-section (1) reasonable opportunity of hearing shall be provided to the director, manager or employee or board of directors of the commercial bank or financial institution before.
+
+Provided that if such opportunity of hearing can makes negative effect to the interest of the commercial bank or financial institution or its depositors, shareholders, creditors or general public, no provision of prevailing law can debarred to remove immediately to the director, manager or employee from their post or to suspend the board of directors by providing opportunity to hearing after such decision.
+
+(3) During the hearing of the action under the proviso of the Sub-section (2) if such action does not seems reasonable bank can annul, change or make necessary decision to the order under Clause (n) or (o) of Sub-section (2).
+
+(4) Respective commercial bank or financial institution have to bear all the expenditure while bank take the control of management of any commercial bank or financial institution under the provision of Clause (o) of Sub-section (1) and makes arrangement for the management and operation of transaction.
+
+(5) The order of the bank issued under Sub-section (1) Clause (o) shall generally remain valid for two years from the date of issue unless it is not renewed by the bank.
+
+(6) In case of control of any commercial bank or financial institution by the bank under the provision of Clause (o) of Sub-section (1), the preliminary and annual report prepared by the bank or the officer appointed by the bank shall be submitted to the government of Nepal.
+
+(7) In case of necessity bank can revoke or nullify its order issued under the provision of Clause (m), (n), (o) and (p) of Sub-section (1) by issuing another order. Such order shall contain the basis and reason and other necessary information regarding the need of issuing such order.
+
+(8) The directors, managers, or employees removed by the bank under the provision of the Clause (n) of Sub-section (1) are not allowed to work or involve in transaction in the same commercial bank or financial institution as director, manager or employee or any other post of any commercial bank or financial institution or any other way being involved directly or indirectly.
+
+(9) The directors, managers, or employees removed by the bank under the provision of the Clause (n) of Sub-section (1) or suspended member of board of directors under the provision of Clause (o) are not allowed to receive or claim any remuneration or compensation under the provision of prevailing law or agreement held directly or indirectly from the date of such order.
+
+(10) Determination of the capital and valuation of assets and liabilities of any problematic commercial bank or financial institution shall be based on the basis, process and standard determined by the bank.
+
+86 D. Effect of the Control of the Bank to any Commercial Bank or Financial Institution: (1) While bank takes control of any commercial bank or financial institution by issuing order under the provision of the Clause (o) of Sub-section (1) of Section 86C, for the management and operation of transaction respective commercial bank or financial institution; the directors, manager and employees of such commercial bank or financial institution have to provide the assets, material goods and all transaction and its report and other necessary cooperation and facilities to the bank or the official appointed by the bank.
+
+(2) While bank takes control of any commercial bank or financial institution by issuing order under the provision of the Clause (o) of Sub-section (1) of Section 86C, the official appointed by the bank for the management and operation of transaction of such commercial bank or financial institution, being within the limitation of order issued by the bank have to manage and operate such commercial bank or financial institution in the name of such commercial bank or financial institution by taking control of the property and transaction unless the bank decide otherwise for such order.
+
+(3) Whatever may be written in the prevailing law, the appointed official for management and operation of any commercial bank or financial institution which is in the control of the bank, can exercise all the rights conferred to such commercial bank or financial institution, its board of directors, shareholders or manager by prevailing law, memorandum and article association of such commercial bank or financial institution and such official can exercise the act assigned for the general meeting or special general meeting or any rights by any other way of such commercial bank or financial institution.
+
+(4) Till the date of validity of the order issued by the bank to take the control of any commercial bank or financial institution, no director, manager or employee removed under the provision of Clause (n) of the Sub-section (1) of Section 86C and suspended director under the Clause (o) of such commercial bank or financial institution, can be involve in the management or take any remuneration or facility from such commercial bank or financial institution during the period of being problematic without written permission of the bank or the official appointed for the management and operation of such commercial bank or financial institution.
+
+#### 86E. The Reformative Measures and Rights Which can be Used by the Bank or the Official Appointed by the Bank
+
+(1) Whatever may be mentioned in the Companies Act or other prevailing law, the bank itself or with the prior approval of the bank the official appointed by the bank can initiate one or more than one of the following actions for the purpose of restructuring of any problematic commercial bank or financial institution which is under the control of the bank by order issued under the provision of Clause (o) of Sub-section (1) of the Section 86C:
+
+(a) To cancel or suspend any transaction operating within or outside Nepal.
+
+(b) To sell the assets of such commercial bank or financial institution to any other commercial bank or financial institution in terms and conditions determined by the bank.
+
+(c) To terminate the employment of the employees working in such commercial bank or financial institution and to appoint new employees in their place as per necessity.
+
+(d) To merge such commercial bank or financial institution with other commercial bank or financial institution or arrange to transfer the assets and liabilities of such commercial bank or financial institution partially or whole to any other commercial bank or financial institution or any other body.
+
+(e) To increase the capital, being based on the standard determined by the bank, by selling the share to other person to reduce the participation of the present shareholders or to restructure such commercial bank or financial institution by reshuffling the board of directors.
+
+(f) To reduce the capital reflecting the actual price of real assets of such commercial bank or financial institution under the provision of Section 86H and determine the face value of the shares in the proportion of reduced capital.
+
+(g) To do necessary managerial restructure or corporate restructure by closing the branches and transactions which are not properly running for the protection of the interest of the depositors, shareholders, creditors and general public.
+
+(h) To implement or cause to implement other measures determined by the bank to make competitive for the problematic commercial bank or financial institution.
+
+(2) The reasonable opportunity of hearing should be provided to any commercial bank or financial institution before taking any decision under Clause (f) or (g) of sub Section (1).
+
+Provided that, if the bank feels that prior opportunity of hearing can make negative effect to the interest of its depositors, shareholders, creditors or general public, the bank can provide the opportunity of hearing as soon as possible after making such decision and if the bank satisfied with the reason and basis presented during the time of hearing it can change or repeal the decision as per necessity.
+
+#### 86F. Right of the Bank for Corrective Action
+
+(1) Bank has to publish in public the report of management auditing or auditing within one year of the control of the commercial bank or financial institution which declared problematic under the provision of Clause (o) of Sub-Section (1) of Section 86C either conducted itself or by others.
+
+(2) Whatever may be mentioned in the Companies Act or any other prevailing law, on the basis of the management auditing or auditing report under Sub-section (1) if bank convinced that the controlled commercial bank or financial institution can operate properly it can carry out following corrective actions as per necessity:-
+
+(a) Issue order to manage and operate the transaction to the board of director by releasing the suspension order issued under the provision of Clause (o) Sub-Section (1) of Section 86C,
+
+(b) Assign the management and operation of transaction to the new board of director formed among the shareholders of such commercial bank or financial institution by removing suspended board of director under the provision of Clause (o) of Sub-section (1) of Section 86C,
+
+(c) Call or cause to call the general meeting of the shareholders of such commercial bank or financial institution to elect the new board of director for the management and operation of transaction after removing suspended board of director under the provision of Clause (o) of Sub-section (1) of Section 86C, or
+
+(d) Carry out any other corrective measures, which the bank thinks appropriate.
+
+(3) Bank by public notice may issue the order to implement or cause to implement the following actions on the basis of the management audit or account audit report under Sub-section (1) or report of the official appointed by the bank.
+
+(a) To sale, distribute and transfer of shares of any shareholders to the proper person to whom bank think, in the price determined by the committee constituted having representation from the Securities Board Nepal, Chartered Accountant Association Nepal and other outside expert being based on the criteria determined by the bank.
+
+(b) Transfer or cause to transfer partially or fully the assets and liabilities of the problematic commercial bank or financial institution to any commercial bank, financial institution or any other body being based in the terms and criteria determined by the bank.
+
+(c) To merge partially or fully the assets and liabilities of the problematic commercial bank or financial institution with any commercial bank, financial institution or any other body which bank may think proper, being based in the limitation of the Section 86J.
+
+(d) To establish or cause to establish new commercial bank or financial institution in the investment of the Government of Nepal which also get the assets and liabilities of problematic commercial bank or financial institution under the provision of Section 86J and 86K.
+
+(4) Bank can confiscate the shares which are not sold, distributed and transferred because of any reason under Clause (a) of Sub-section (3), and bank can sell, distribute and transfer such share any manner which it think proper to any body with the advise of the committee constituted under Clause (a) of Sub-section (3).
+
+(5) Bank may provide reasonable opportunity of hearing to the stakeholder about the proposed issue before taking any decision against any commercial bank or financial institution under Sub-section (3).
+
+Provided that, if the bank feels that prior opportunity of hearing can make negative effect to the interest of such commercial bank or financial institution, its depositors, shareholders, creditors or general public, the bank can provide opportunity of hearing as soon as possible after making such decision and if the bank satisfied with the reason and basis presented during the time of hearing it can change or repeal the decision as per necessity.
+
+#### 86G. Application for the Dissolution
+
+In case the bank is convinced that any problematic commercial bank or financial institution even after the action under Section 86C, reformative action under Section 86E or corrective action under Section 86F, such commercial bank or financial institution is unable to discharge its liabilities or there is no possibility to operate in healthy way, can apply to the Appellate Court for the dissolution of such commercial bank or financial institution.
+
+#### 86H. Decrease of the Capital of Problematic Commercial Bank or Financial Institution
+
+(1) Whatever may be mentioned in the Companies Act or other prevailing law or memorandum and article of association of the problematic commercial bank or financial institution, after taking such commercial bank or financial institution in its control under the provision of the Clause (o) of the Sub-section (1) of the Section 86C, in case there is reduction of the paid up capital of such commercial bank or financial institution or the due amount was not paid by the shareholders or liabilities is not recoverable by the assets of such commercial bank or financial institution, bank can decrease the share capital of such commercial bank or financial institution in limit of reduction of the share capital or liabilities which is not coverable by the assets.
+
+Provided that, before decrease of share capital the bank has to publish minimum two notice of this effect in national daily.
+
+(2) Whatever may be mentioned in the Companies Act or other prevailing law or memorandum and article of association of the problematic commercial bank or financial institution, bank can cancel the remaining shares of the commercial bank or financial institution whose assets and liabilities are partially or wholly transferred to other commercial bank, financial institution or any other body under the provision of Clause (b), (c) or (d) of Sub-section (3) of Section 86F by publishing minimum two notice of this effect in national daily.
+
+(3) Before issuing the notice under Sub-section (1) the bank has to provide thirty days time for those shareholders who has due amount of the price of paid up share. Bank can initiate the process of cancellation of share of those shareholders who did not pay the due amount after such notice, and bank can determine the minimum price for the share of the commercial bank or financial institution which is insolvent or in the process of dissolution.
+
+(4) In case of decrease of the share capital of any commercial bank or financial institution under Sub-section (1) or cancellation of share under Sub-section (3) it may be ipso facto considered that amendment in the memorandum and article of association such commercial bank or financial institution is made accordingly.
+
+#### 86I. Right to Appeal Against the Order of the Bank
+
+(1) Only the representative of shareholders of the commercial bank or financial institution can appeal to the committee within fifteen days against the action, order, decision or Proceedings of the bank or the official appointed by the bank, under Section 86C, 86D, 86E, 86f and 86h, if not satisfied with such action, order, decision or proceedings.
+
+Clarification: For the purpose of this Section "shareholders representative" means representative elected among the shareholders having minimum twenty five percent of prevailing share.
+
+(2) No appeal will be entertained without having the representation of twenty five percent of prevailing shares within the time of Sub-section (1.)
+
+(3) In case of the appeal under the provision of Sub-section (1), the committee has to approve, review or cancel the action, order, decision or proceedings done by the bank or the official appointed by the bank, within thirty days of receipt of such appeal by giving related proof, basis and reasons.
+
+(4) Bank may provide information about the decision made under Sub-section (3) within fifteen days of such decision to the respective representative of the shareholders.
+
+(5) The action, order, decision or Proceedings of the bank or the official appointed by the bank shall remain continue unless the committee under Sub-section (3) cancel it.
+
+(6) The decision of the committee under Sub-section (3) on the appeal of the shareholders representative shall be final.
+
+#### 86J. Transfer of the Assets and Liabilities of the Problematic Commercial Bank or Financial Institution
+
+(1) In case of the order issued by the bank for the transfer of assets and liabilities partially or fully of the problematic commercial bank or financial institution under the provision of Clauses (b), (c) or (d) of Sub-section (3) of the Section 86F, notifying such order to public by publication, it can be transferred to any commercial bank or financial institution or any other body in the terms and basis which bank think proper.
+
+(2) Bank may provide, real, detail and information on the serious matters about the belongings or description of assets and transaction of the problematic commercial bank or financial institution to the prospective commercial bank or financial institution or any body which is ready to receive the assets and liabilities of such commercial bank or financial institution by determining the terms of privacy.
+
+#### 86K. Basis for Transfer of the Assets and Liabilities
+
+(1) Whatever may be mentioned in the Section 86J no assets and liabilities of the problematic commercial bank or financial institution can be transferred to any commercial bank or financial institutions or any other body in the following conditions:
+
+(a) In case it is against the interest of the depositors, shareholders, creditors or general public.
+
+(b) In case it seems that the transaction related to the assets and liabilities cannot be operated competently and liabilities against the depositors, shareholders and creditors cannot be fulfilled.
+
+(c) In case of refusal to provide written commitment by the recipient commercial bank or financial institution or any other body, in the terms determined by the bank regarding the proper use of the assets and discharge of the liabilities.
+
+#### 86L. Consequence of Transfer
+
+(1) Whatever may be mentioned in the Companies Act or any other prevailing law, while the assets or liabilities of any problematic commercial bank or financial institution is transferred to any commercial bank or financial institution or any other body, the following provision shall be applicable in the issue of the assets, liabilities, transaction and other related matters of such commercial bank or financial institution from the date mentioned in the order of the bank.
+
+(a) In case of transfer of assets and liabilities of the problematic commercial bank or financial institution to any other commercial bank or financial institution or any other body, all the rights and liabilities upon such assets and liabilities shall automatically be transferred to the recipient commercial bank or financial institution or any other body.
+
+(b) In case of transfer of assets and liabilities under the provision of Clause (a), if it is necessary to transfer or complete other legal procedure for such transfer the respective official have to transfer it in the name of recipient commercial bank or financial institution or any other body.
+
+Provided that, such transfer of assets and liabilities is not considered otherwise only because of not being transfer in the name recipient.
+
+(c) The recipient commercial bank or financial institution or any other body which receives the assets and liabilities of the problematic commercial bank or financial institution, have to follow the terms of the written commitment and directives issued by the bank in time to time under the provision of this Act or other prevailing law related to commercial bank or financial institution.
+
+(d) In case of transfer of the assets and liabilities of any problematic commercial bank or financial institution to any commercial bank or financial institution or any other body, for the execution of such it is considered that the license for banking and financial transaction issued under the provision of this Act shall be considered automatically amended for the limit of transaction of transferred assets and liabilities and license issued to the problematic commercial bank or financial institution shall be considered as repealed.
+
+(e) It is considered that all responsibilities occurred from any agreement, contract, right, right to representation, pledge, securities, instruments, etc of the problematic commercial bank or financial institution which assets and liabilities are transferred to the other commercial bank or financial institution or any other body are transferred to the later till the limit of transferred assets and liabilities of the problematic commercial bank or financial institution.
+
+(f) The commercial bank or financial institution or any other body which receives the assets and liabilities under Clause (e) shall operate any action by its own name till the limit of the assets and liabilities transferred to it from the problematic commercial bank or financial institution on which it was party.
+
+#### 86M. Finality of the Order of Transfer
+
+Whatever may be mentioned in the prevailing law, the order issued by the bank for the transfer of the assets and liabilities of any problematic commercial bank or financial institution to any other commercial bank or financial institution or any other body under this Act shall be final.
+
+#### 86N. Prohibition in any Actions
+
+Whatever may be mentioned in the prevailing law, if bank feels necessity for the healthy development of banking and financial system, stability and for the shake of depositors interest bank can do following actions:
+
+(a) Apply to the Appeal Court for the order of suspension of hearing of civil matters for not more than six months to any actions, transaction and related any matter or all cases on which problematic commercial bank or financial institution is either party.
+
+(b) Control or capture the assets, records, account, etc of the problematic commercial bank or financial institution.
+
+#### 87. Establishment of Information Network
+
+(1) The Bank shall, in order to promote banking and financial system of Nepal, establish and operate information network as prescribed.
+
+#### 88. Establishment of Credit Information Center
+
+(1) The Bank shall establish or cause to establish one credit information Center for the following purposes:-
+
+(a) To obtain information on the flow of credit from commercial banks and financial institutions in order to ensure fairness and appropriateness in credit flow;
+
+(b) To require the exchange of the information received pursuant Clause (a) amongst the commercial banks and financial institutions for the purpose referred to in that Sub-Section;
+
+(c) To require to send the name-list of the debtors not repaying the loan in time or misusing the loan to the Center;
+
+(d) To require to obtain on compulsory basis the information from the Center prior to making investment or advancing loan of an amount more than the limit prescribed by the Bank;
+
+(e) To have the name-list received pursuant to Clause (c) blacklisted by the Center upon confirmation and to take necessary action in this regard; and
+
+(f) To submit report to the Bank, on the exchange of information among the commercial bank and financial institution and use such information while making loan investment on the basis of inspection, supervision and monitoring.
+
+(2) The Bank shall regulate and manage the functions referred to in Sub-section (1) as specified.
+
+### Chapter - 10
+
+Balance Sheet, Auditing and Report
+
+#### 89. Fiscal Year
+
+The Fiscal year of the Bank shall be as per the Fiscal year of Government of Nepal.
+
+#### 90. Account System
+
+The Bank shall maintain at all times accounts and records adequate to reflect its operations and financial condition in accordance with international accounting standards.
+
+#### 91. Annual Report
+
+(1) The Bank shall prepare an annual report for each fiscal year, which should include the balance sheet, profit and loss accounts and the particulars relating to it.
+
+(2) The Bank shall submit the annual report referred to in Sub-section (1) to Government of Nepal within four months from the date of completion of each fiscal year.
+
+#### 92. Auditing
+
+(1) The Auditor General shall carry out auditing of the accounts of the Bank.
+
+(2) The Board may, if it deems appropriate, cause the internal auditing of its accounts carried out by some external Auditor. While causing such auditing of accounts, it shall cause to be carried out in accordance with the account system of international practice.
+
+#### 93. Submission of Report to Government of Nepal
+
+(1) The Bank shall have to submit the following reports to Government of Nepal within four months from the date of completion of each fiscal year:-
+
+(a) Auditing Report,
+
+(b) Report on its activities of itself,
+
+(c) Report on economic and financial position,
+
+(2) The Bank shall publish its monthly balance sheet within fifteen days from date of completion of each month.
+
+#### 94. Report on Monetary Policy
+
+The Bank shall publish the report on monetary policy each year for the information of general public. The said report to be published in such a manner shall contain the following matters:-
+
+(a) Comprehensive review and evaluation of the monetary policy introduced and followed by the Bank in the preceding year;
+
+(b) Justification and analysis of the monetary policy that the Bank is going to introduce in the following year:-
+
+### Chapter - 11
+
+Offences, Punishment and Proceedings
+
+#### 95. Acts to be Deemed to be Offence Under this Act
+
+(1) Whoever accepts deposits or gives credits or issues debenture or other financial instruments in contravention to this Act or the Rules or bye-law framed thereunder or an order or directive issued thereunder; or whoever charges or gives interest against the policy determined by the Bank or issues fake, fraudulent, counterfeit or duplicate or copied currency or distributes or circulates such currency or is involved in such acts, it shall be deemed to have committed offences under this Act.
+
+(2) Except otherwise provided under Sub-section (1) any person who fail to comply with the provisions made under this Act or rules made thereunder, or bye-laws, or the order or directives issued thereunder, shall commit offence under this Act.
+
+#### 96. Punishment
+
+(1) The person convicted of offence referred to in Section 95 shall have the assets related to the offence confiscated and shall be liable to a fine up to three times of the value of the said assets or an imprisonment up to three years or the both.
+
+(2) In cases where the value of the assets related to offence can not be ascertained pursuant to Sub-section (1), a fine of up to one million rupees or an imprisonment up to three years or both may be imposed depending upon degree of the offence.
+
+(3) If the offence referred to in Section 95 has been committed by any firm, company or institution, the punishment referred to in Sub- Sections (1) and (2) shall be imposed on the official of the said firm, company or institution committing the offence.
+
+(4) The person who has attempted to commit, or who is indirectly related to the offence referred to in Section 95 or the person who has helped to commit such offence or the official of the concerned firm, company or organization who has helped to commit such offence shall be liable to a punishment up to the half of the punishment prescribed for the offender of the first degree.
+
+#### 97. Government of Nepal to be Plaintiff
+
+The cases relating to the offences referred to in Section 95 shall be filed by Government of Nepal as plaintiff and such cases shall be deemed to have been incorporated in Schedule -1 of the Government Cases Act, 2049 (1992).
+
+#### 98. Bank to Provide Information
+
+In cases where the Bank has an information from any source that any one has committed the offences referred to in Section 95, the Bank shall forward such information in writing to Government of Nepal or the concerned agency for necessary actions.
+
+#### 99. Fine for Violation of Bank's Regulation
+
+(1) In case any commercial bank or financial institution licensed under this Act, violates an order or directive issued by the Bank under this Act or under the regulation or Bye-laws framed thereunder, the Bank may fine such commercial bank or financial institution an amount up to the amount related to such violation.
+
+(2) In cases where the Bank's regulation referred to in Sub-section (1) has been violated by a Director, official or employee of the commercial bank or financial institution, such fine shall be imposed on the concerned Director, official or employee.
+
+#### 100. Punishment for Violation of Bank's Regulation
+
+(1) In case any commercial bank or financial institution licensed from the Bank, violates an order or directive issued by the Bank under this Act or under the regulation or bye-laws framed thereunder, the Bank may impose one or more of the following punishment to such commercial bank or financial institution:-
+
+(a) Giving reprimand or written warning;
+
+(b) Obtain an undertaking from Board of Directors for adopting reformative measures;
+
+(c) Issuing written order to end up frequent violations, to abstain from such violation and to adopt reformative measures;
+
+(d) Suspend or terminate the services of the Bank's employee;
+
+(e) Prohibit commercial bank or financial institution to distribute dividend to its shareholders;
+
+(f) Prohibit commercial bank or financial institution to accept deposits or to grant loan and advance;
+
+(g) Imposing full or partial restriction on the transaction of business of the commercial bank or financial institution;
+
+(h) Suspend or revoke license of the commercial bank or financial institution.
+
+(2) Where a Director or official or employee of a licensed commercial bank or financial institution violates an order or directive issued by the Bank under this Act or under the regulation or bye-law framed thereunder or in cases where, they have acted against the interest of the depositor or general public or where they failed to submit the documents, particulars, data required by the Bank or the inspecting or supervising official within the time prescribed, the Bank may impose the following punishments to such Director, official or employee:-
+
+(a) Giving reprimand or written admonition;
+
+(b) Suspending;
+
+(c) Imposing a cash fine not exceeding five hundred thousand rupees;
+
+(d) Giving order to the Board of Directors of concerned commercial bank or financial institution to stop payment of all benefits including remuneration and allowances;
+
+(e) Giving order to the Board of Directors of the concerned commercial bank or financial institution to remove Directors from his office of Director or to terminate the services of officer or employee.
+
+#### 101. Procedures for Pecuniary Penalty and Punishment
+
+(1) While imposing pecuniary penalty or punishment pursuant to Sections 99 and 100, the Bank shall have to follow the following procedures:-
+
+(a) Prior to imposing pecuniary penalty or punishment, the Bank shall issue a written notice to the accused institutions or persons stipulating the following matters to submit its reply within fifteen days, on the proposed fine or punishment:-
+
+(1) Nature of the offense,
+
+(2) Amount of fine or proposed punishment that may be imposed on the basis of nature of offence, and (3) Summary of the facts related to the offence.
+
+(b) The institution or person accused pursuant to Clause (a) should submit written replies within fifteen days accepting or denying the charges.
+
+(c) In case the denial of the charge by the accused institution or person is found to be satisfactory, the Bank may change, limit or dismiss such charge.
+
+(d) In case the accused institution or person accept the charge or does not give satisfactory replies, the Bank shall impose such fine or punishment.
+
+(e) The Bank may issue order to deduct the amount of fine imposed pursuant to Clause (d) from the accounts of the concerned commercial bank or financial institution maintained at the Bank.
+
+(2) The cash fine to be recovered by the Bank pursuant to Clause (e) of Sub-Section (1) shall be deposited in the general reserve fund.
+
+(3) Notwithstanding anything contained in Sub-section (1), there is no need to follow such procedure while imposing punishment under Clauses (a), (b), (c) or (d) of Sub-section (1) and Clauses (a) and (b) of Sub-section (2) of Section 100.
+
+#### 102. Filing Appeals
+
+The commercial bank or financial institution or the director or official or employee thereof not satisfying with the punishment imposed by the Bank under Sections 99 and 100 may, within thirty five days from the date of punishment, file an appeal at the Appellate Court.
+
+### Chapter - 12
+
+Miscellaneous
+
+#### 103. Payment, Clearing and Settlement
+
+(1) The Bank shall make necessary arrangement for the clearing and settlement of cheques, payment orders, inter bank payment security transactions made in the currencies prescribed by the Bank and any other payment instrument and carry out the functions of regulation, inspection and supervision thereof.
+
+(2) While carrying out the functions referred to in Sub-section (1), the Bank may prescribe necessary procedures.
+
+(3) For the purpose of clearing and settlement arrangement referred to in Sub-section (1), the commercial bank or financial institution shall, subject to the terms and conditions prescribed by the Bank, open account in the Bank or any other financial institution prescribed by the Bank.
+
+#### 104. Collection of Data
+
+(1) The Bank shall, in order for achieving its objectives or carrying out its functions, collect data necessary for it from itself or from Government of Nepal or other agencies. For this purpose, the Bank may seek help from the authorized persons, institution, organization within and outside the Kingdom and international association and organizations.
+
+(2) The Bank may make necessary provisions for coordination and reformation in the system of collection, storing and distribution of data relating to its area of competence.
+
+#### 105. Trust Accounts
+
+The Bank may, for special purposes, open and operate separate account in the form of trust account. The amount collected in such account shall not be used for any other purposes. The property in such account shall be used only for the purpose of fulfilling the liabilities of such accounts and the Bank shall not be allowed to use the amount or property in other accounts for fulfilling such liabilities.
+
+#### 106. Actions not to be Invalid
+
+None of the actions taken by the Bank or the Board shall be invalid merely for the reason that there was irregularity in the appointment of Governor, Deputy Governor or Director or in the formation of the Board or simply on the ground that the office of the Governor, Deputy Governor or Director has remained vacant.
+
+#### 107. No Responsibility for Acts Done on Good Faith
+
+(1) Governor, Deputy Governor, Director or any official or employee of the Bank shall not be personally or collectively liable for any act done on good faith under this Act and under the Regulations or Bye-laws or under an order or directive issued thereunder.
+
+Provided that for any act done knowingly or with mala fide intention, they shall be personally liable.
+
+(2) In case a lawsuit of any type has been filed against the Governor, the Deputy Governor, Director or any official of the Bank with regard to any loss sustained or to be sustained because of any act done or attempted to do in good faith pursuant to this Act or under the Regulations or Bye-laws framed thereunder or an order or directive issued thereunder, the Bank shall bear expenses incurred therefor.
+
+Provided that the Bank shall not bear the expenses incurred for the lawsuit filed against any act done knowingly or with mala fide intention.
+
+#### 108. Oath of Office
+
+(1) Before assuming their office, the Governor and Director before the chief justice of the Supreme Court or justice prescribed by him/her and Deputy Governor before the Governor, shall take an oath of post and secrecy as determined in the schedule.
+
+(2) Any employee or advisor appointed first time in the bank should take an oath of post and secrecy as prescribed, before resuming his post.
+
+#### 109. This Act to be Applicable
+
+Notwithstanding anything contained in the prevailing laws, provisions contained in this Act shall prevail.
+
+#### 110. Power to Frame Rules and Bye-laws
+
+(1) In order to implement the objectives of this Act, the Bank shall, having obtained approval of Government of Nepal, frame necessary Rules on the following matters:-
+
+(a) Foreign Exchange Transaction;
+
+(b) Refund of the burnt, torn, defaced or mutilated banknotes and coins;
+
+(c) Transaction of business between Government of Nepal and the Bank;
+
+(d) Other necessary matters which bank thinks necessary to implement the objective of this Act.
+
+(2) In order to implement the objectives of this Act, the Board may frame byelaws on the following matters:-
+
+(a) The venue and time of the meeting of the Board and procedures relating thereto,
+
+(b) Formation of sub-committees by the Board as per necessity and procedures of such sub-committees,
+
+(c) Appointment, promotion, transfer, dismissal, remuneration and facilities, pension, gratuity, provident fund, leave, conduct and discipline and terms and conditions of service, of the employees of the Bank,
+
+(d) Delegation of authority by the Board to the Governor, by the Governor to the Deputy Governor or other employees of the Bank,
+
+(e) The terms and conditions for the lease agreements to be concluded on behalf of the Bank,
+
+(f) The use of the seal of the Bank,
+
+(g) The accounts, ledger, registrars, books and other record and documents to be maintained by the Bank and the format thereof,
+
+(h) Internal auditing and inspection of the Bank,
+
+(i) Supervision of commercial banks and financial institution,
+
+(j) The particulars to be submitted by commercial banks and financial institutions,
+
+(k) Cash deposit of the Bank or responsibility of the cash,
+
+(l) The case to be filed on behalf of the Bank or operation of other transaction of business,
+
+(m) Credit control,
+
+(m) The Bank's system of expenditure,
+
+(n) Other necessary subjects, which are necessary to implement the objective of this Act.
+
+(3) Except the subject matters referred to in Sub-Sections (1) and (2), the Governor shall issue the order, direction, procedures and guidelines to be issued under this Act.
+
+(4) The Bank shall forward, for information of Government of Nepal, the Bye-law framed under Sub-section (2) and the order or directive issued under Sub-section (3).
+
+(5) The Bank shall publish and transmit the bye-law framed under Sub-section (2) or an order or directive issued under Sub-section (3).
+
+#### 111. Guidelines to be Framed and Introduced
+
+The Bank may, in order to fulfill the objectives of the Act, frame and introduce necessary guidelines from time to time subject to this Act, or Regulations or bye-laws frame under this Act.
+
+#### 112. Repeal and Saving
+
+(1) The following Acts have been repealed:
+
+(a) The Nepal Rastra Bank Act, 2012 (1955);
+
+(b) The Currencies Act, 2040 (1983);
+
+(2) All acts and activities carried out in accordance with the Acts repealed under Sub-section (1) shall be deemed to have been carried out in accordance with this Act.
+
+erted by Nepal Rastra Bank (First Amendment) Act, 2063
